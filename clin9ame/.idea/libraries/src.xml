@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/src/mina-filter-compression-1.1.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/src/slf4j-log4j12-1.5.8-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/src/commons-lang-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/src/mina-filter-ssl-1.1.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/src/slf4j-api-1.5.8-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/src/mina-core-1.1.7-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

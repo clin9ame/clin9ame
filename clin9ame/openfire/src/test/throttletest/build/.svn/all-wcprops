@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/!svn/ver/7872/openfire/trunk/src/test/throttletest/build
+END
+ThrottleTest.ipr
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/7872/openfire/trunk/src/test/throttletest/build/ThrottleTest.ipr
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/!svn/ver/7872/openfire/trunk/src/test/throttletest/build/build.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/event
+END
+WorkgroupEventAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/event/WorkgroupEventAdapter.java
+END
+WorkgroupEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/event/WorkgroupEventListener.java
+END
+WorkgroupEventDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/event/WorkgroupEventDispatcher.java
+END

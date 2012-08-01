@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/13058/openfire/trunk/src/java/org/jivesoftware/openfire/ldap
+END
+LdapAuthorizationPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/ldap/LdapAuthorizationPolicy.java
+END
+LdapGroupProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/12050/openfire/trunk/src/java/org/jivesoftware/openfire/ldap/LdapGroupProvider.java
+END
+LdapUserProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/ldap/LdapUserProvider.java
+END
+LdapManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/11785/openfire/trunk/src/java/org/jivesoftware/openfire/ldap/LdapManager.java
+END
+LdapVCardProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/13058/openfire/trunk/src/java/org/jivesoftware/openfire/ldap/LdapVCardProvider.java
+END
+LdapAuthProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/ldap/LdapAuthProvider.java
+END
+LdapAuthorizationMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/11685/openfire/trunk/src/java/org/jivesoftware/openfire/ldap/LdapAuthorizationMapping.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/7872/openfire/trunk/src/java/org/jivesoftware/openfire/ldap/package.html
+END

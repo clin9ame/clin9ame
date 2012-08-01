@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/13001/openfire/trunk/src/java/org/jivesoftware/openfire/spi
+END
+PresenceManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/12956/openfire/trunk/src/java/org/jivesoftware/openfire/spi/PresenceManagerImpl.java
+END
+RoutingTableImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12998/openfire/trunk/src/java/org/jivesoftware/openfire/spi/RoutingTableImpl.java
+END
+BasicStreamIDFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/spi/BasicStreamIDFactory.java
+END
+XMPPServerInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/spi/XMPPServerInfoImpl.java
+END
+LocalRoutingTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/spi/LocalRoutingTable.java
+END
+PacketRouterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/spi/PacketRouterImpl.java
+END
+PacketDelivererImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/spi/PacketDelivererImpl.java
+END
+ConnectionManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/13001/openfire/trunk/src/java/org/jivesoftware/openfire/spi/ConnectionManagerImpl.java
+END
+ClientRoute.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/spi/ClientRoute.java
+END
+PacketTransporterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/spi/PacketTransporterImpl.java
+END

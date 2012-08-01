@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/12581/spark/trunk/src/java/org/jivesoftware/spark/ui/status
+END
+CustomMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/12566/spark/trunk/src/java/org/jivesoftware/spark/ui/status/CustomMessages.java
+END
+StatusItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/12435/spark/trunk/src/java/org/jivesoftware/spark/ui/status/StatusItem.java
+END
+StatusBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/12581/spark/trunk/src/java/org/jivesoftware/spark/ui/status/StatusBar.java
+END
+CustomStatusItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/status/CustomStatusItem.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/4456/spark/trunk/src/java/org/jivesoftware/spark/ui/status/package.html
+END

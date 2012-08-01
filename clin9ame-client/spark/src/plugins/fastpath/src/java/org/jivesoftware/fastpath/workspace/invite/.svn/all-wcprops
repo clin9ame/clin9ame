@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/fastpath/src/java/org/jivesoftware/fastpath/workspace/invite
+END
+InvitationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/fastpath/src/java/org/jivesoftware/fastpath/workspace/invite/InvitationManager.java
+END
+WorkgroupInvitationDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/fastpath/src/java/org/jivesoftware/fastpath/workspace/invite/WorkgroupInvitationDialog.java
+END
+WorkgroupRosterTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/fastpath/src/java/org/jivesoftware/fastpath/workspace/invite/WorkgroupRosterTree.java
+END

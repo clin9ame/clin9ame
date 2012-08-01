@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/13161/openfire/trunk/src/plugins/userImportExport/src/java/org/jivesoftware/openfire/plugin
+END
+UserSchemaValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/userImportExport/src/java/org/jivesoftware/openfire/plugin/UserSchemaValidator.java
+END
+ImportExportPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/!svn/ver/13161/openfire/trunk/src/plugins/userImportExport/src/java/org/jivesoftware/openfire/plugin/ImportExportPlugin.java
+END

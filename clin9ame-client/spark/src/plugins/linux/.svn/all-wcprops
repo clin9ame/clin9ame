@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/repos/!svn/ver/12401/spark/trunk/src/plugins/linux
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/!svn/ver/9710/spark/trunk/src/plugins/linux/readme.html
+END
+changelog.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/!svn/ver/9710/spark/trunk/src/plugins/linux/changelog.html
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/!svn/ver/12401/spark/trunk/src/plugins/linux/plugin.xml
+END
+LinuxPlugin.iml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/9710/spark/trunk/src/plugins/linux/LinuxPlugin.iml
+END

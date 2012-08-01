@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/!svn/ver/12997/openfire/trunk/src/plugins/gojara/src/java/org/jivesoftware/openfire/plugin/gojara/messagefilter/handler
+END
+AbstractInterceptorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/repos/!svn/ver/12951/openfire/trunk/src/plugins/gojara/src/java/org/jivesoftware/openfire/plugin/gojara/messagefilter/handler/AbstractInterceptorHandler.java
+END
+GatewayInterceptorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/repos/!svn/ver/12997/openfire/trunk/src/plugins/gojara/src/java/org/jivesoftware/openfire/plugin/gojara/messagefilter/handler/GatewayInterceptorHandler.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/lib
+END
+commons-fileupload-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/lib/commons-fileupload-1.0.jar
+END
+lucene.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/lib/lucene.jar
+END
+xstream.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/lib/xstream.jar
+END

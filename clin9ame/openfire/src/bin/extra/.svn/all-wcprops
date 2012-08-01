@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/repos/!svn/ver/12075/openfire/trunk/src/bin/extra
+END
+embedded-db.rc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/7872/openfire/trunk/src/bin/extra/embedded-db.rc
+END
+embedded-db-viewer.bat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/!svn/ver/7872/openfire/trunk/src/bin/extra/embedded-db-viewer.bat
+END
+embedded-db-viewer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/7872/openfire/trunk/src/bin/extra/embedded-db-viewer.sh
+END
+openfire-launchd-wrapper.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/7872/openfire/trunk/src/bin/extra/openfire-launchd-wrapper.sh
+END
+redhat-postinstall.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/9413/openfire/trunk/src/bin/extra/redhat-postinstall.sh
+END
+openfired
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/!svn/ver/9497/openfire/trunk/src/bin/extra/openfired
+END

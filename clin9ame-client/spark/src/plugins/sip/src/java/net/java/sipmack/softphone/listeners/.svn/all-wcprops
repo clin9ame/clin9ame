@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/softphone/listeners
+END
+InterlocutorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/!svn/ver/9360/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/softphone/listeners/InterlocutorListener.java
+END
+RegisterEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/softphone/listeners/RegisterEvent.java
+END
+SoftPhoneListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/softphone/listeners/SoftPhoneListener.java
+END

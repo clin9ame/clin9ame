@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="lib4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/ant-contrib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/jmock-legacy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/jasper-compiler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/qdox.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/pack200task.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/xmltask.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/jmock.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/objenesis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/ant-jive-edition.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/hamcrest-library.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/jasper-runtime.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/ant-subdirtask.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/i4jruntime.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/cglib-nodep.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/commons-el.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/hamcrest-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/jmock-junit4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/repos/!svn/ver/4456/spark/trunk/src/resources/sounds
+END
+incoming.wav
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/4456/spark/trunk/src/resources/sounds/incoming.wav
+END
+chat_request.wav
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/4456/spark/trunk/src/resources/sounds/chat_request.wav
+END
+outgoing.wav
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/4456/spark/trunk/src/resources/sounds/outgoing.wav
+END
+presence_changed.wav
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/4456/spark/trunk/src/resources/sounds/presence_changed.wav
+END
+bell.wav
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/!svn/ver/4456/spark/trunk/src/resources/sounds/bell.wav
+END

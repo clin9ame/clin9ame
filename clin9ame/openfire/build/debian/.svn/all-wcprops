@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/repos/!svn/ver/13060/openfire/trunk/build/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/repos/!svn/ver/13060/openfire/trunk/build/debian/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/repos/!svn/ver/7872/openfire/trunk/build/debian/compat
+END
+postinst
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/repos/!svn/ver/7872/openfire/trunk/build/debian/postinst
+END
+openfire.links
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/11599/openfire/trunk/build/debian/openfire.links
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/!svn/ver/9747/openfire/trunk/build/debian/changelog
+END
+openfire.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/!svn/ver/8111/openfire/trunk/build/debian/openfire.dirs
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/!svn/ver/11598/openfire/trunk/build/debian/copyright
+END
+openfire.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/9784/openfire/trunk/build/debian/openfire.postinst
+END
+openfire.default
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/!svn/ver/7872/openfire/trunk/build/debian/openfire.default
+END
+openfire.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/8111/openfire/trunk/build/debian/openfire.postrm
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/repos/!svn/ver/13060/openfire/trunk/build/debian/rules
+END
+openfire.init.d
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/!svn/ver/12553/openfire/trunk/build/debian/openfire.init.d
+END
+openfire.conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/!svn/ver/9617/openfire/trunk/build/debian/openfire.conffiles
+END

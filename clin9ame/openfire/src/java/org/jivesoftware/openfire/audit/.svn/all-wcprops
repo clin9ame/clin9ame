@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/11685/openfire/trunk/src/java/org/jivesoftware/openfire/audit
+END
+AuditManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/audit/AuditManager.java
+END
+SessionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/audit/SessionEvent.java
+END
+AuditStreamIDFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/audit/AuditStreamIDFactory.java
+END
+Auditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/audit/Auditor.java
+END
+AuditEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/audit/AuditEvent.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/7872/openfire/trunk/src/java/org/jivesoftware/openfire/audit/package.html
+END

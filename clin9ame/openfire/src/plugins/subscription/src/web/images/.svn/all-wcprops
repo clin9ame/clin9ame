@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/7872/openfire/trunk/src/plugins/subscription/src/web/images
+END
+success-16x16.gif
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/7872/openfire/trunk/src/plugins/subscription/src/web/images/success-16x16.gif
+END
+error-16x16.gif
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/7872/openfire/trunk/src/plugins/subscription/src/web/images/error-16x16.gif
+END
+delete-16x16.gif
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/7872/openfire/trunk/src/plugins/subscription/src/web/images/delete-16x16.gif
+END

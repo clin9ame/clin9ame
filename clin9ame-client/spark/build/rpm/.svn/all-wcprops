@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/repos/!svn/ver/13086/spark/trunk/build/rpm
+END
+jre-dist.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/!svn/ver/10992/spark/trunk/build/rpm/jre-dist.tar.gz
+END
+spark.spec
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/repos/!svn/ver/13086/spark/trunk/build/rpm/spark.spec
+END

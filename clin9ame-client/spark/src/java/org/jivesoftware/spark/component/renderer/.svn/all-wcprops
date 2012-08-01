@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/12435/spark/trunk/src/java/org/jivesoftware/spark/component/renderer
+END
+JPanelRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12435/spark/trunk/src/java/org/jivesoftware/spark/component/renderer/JPanelRenderer.java
+END
+JLabelIconRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12435/spark/trunk/src/java/org/jivesoftware/spark/component/renderer/JLabelIconRenderer.java
+END
+ListIconRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/12435/spark/trunk/src/java/org/jivesoftware/spark/component/renderer/ListIconRenderer.java
+END

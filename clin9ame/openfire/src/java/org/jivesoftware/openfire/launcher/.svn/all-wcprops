@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/11609/openfire/trunk/src/java/org/jivesoftware/openfire/launcher
+END
+Uninstaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/launcher/Uninstaller.java
+END
+DroppableTextPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/launcher/DroppableTextPane.java
+END
+Launcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/launcher/Launcher.java
+END
+SwingWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/launcher/SwingWorker.java
+END
+DroppableFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/launcher/DroppableFrame.java
+END
+BrowserLauncher.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/launcher/BrowserLauncher.java
+END
+GraphicUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/11609/openfire/trunk/src/java/org/jivesoftware/openfire/launcher/GraphicUtils.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/7872/openfire/trunk/src/java/org/jivesoftware/openfire/launcher/package.html
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/!svn/ver/12342/openfire/trunk/src/plugins/packetFilter/src/web
+END
+arrow_up.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/9792/openfire/trunk/src/plugins/packetFilter/src/web/arrow_up.png
+END
+delete-rule.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/12342/openfire/trunk/src/plugins/packetFilter/src/web/delete-rule.jsp
+END
+pf-main.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/9792/openfire/trunk/src/plugins/packetFilter/src/web/pf-main.jsp
+END
+rule-form.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/10107/openfire/trunk/src/plugins/packetFilter/src/web/rule-form.jsp
+END
+arrow_down.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/9792/openfire/trunk/src/plugins/packetFilter/src/web/arrow_down.png
+END
+flag_red.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/9792/openfire/trunk/src/plugins/packetFilter/src/web/flag_red.png
+END
+rule-edit-form.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/10107/openfire/trunk/src/plugins/packetFilter/src/web/rule-edit-form.jsp
+END
+examplerules.gif
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/9792/openfire/trunk/src/plugins/packetFilter/src/web/examplerules.gif
+END
+disabled.gif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/9792/openfire/trunk/src/plugins/packetFilter/src/web/disabled.gif
+END
+testform.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/9792/openfire/trunk/src/plugins/packetFilter/src/web/testform.jsp
+END

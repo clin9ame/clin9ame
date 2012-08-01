@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/13086/spark/trunk/src/java/org/jivesoftware/spark/ui
+END
+ContactInfoWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/12879/spark/trunk/src/java/org/jivesoftware/spark/ui/ContactInfoWindow.java
+END
+ChatStatePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/12899/spark/trunk/src/java/org/jivesoftware/spark/ui/ChatStatePanel.java
+END
+ReconnectPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/ReconnectPanel.java
+END
+TranscriptWindowInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/TranscriptWindowInterceptor.java
+END
+ChatRoomClosingListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/ChatRoomClosingListener.java
+END
+SubscriptionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/13053/spark/trunk/src/java/org/jivesoftware/spark/ui/SubscriptionDialog.java
+END
+ContainerComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/ContainerComponent.java
+END
+ContactInfoHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/ContactInfoHandler.java
+END
+ChatRoomButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/ChatRoomButton.java
+END
+ImageSelectionPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/ImageSelectionPanel.java
+END
+StringTransferHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/StringTransferHandler.java
+END
+FileDropListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/FileDropListener.java
+END
+ContactItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/13049/spark/trunk/src/java/org/jivesoftware/spark/ui/ContactItem.java
+END
+ContactGroupListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/ContactGroupListener.java
+END
+ChatRoomListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/ChatRoomListener.java
+END
+ChatPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/12422/spark/trunk/src/java/org/jivesoftware/spark/ui/ChatPrinter.java
+END
+ShakeWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/12499/spark/trunk/src/java/org/jivesoftware/spark/ui/ShakeWindow.java
+END
+Sparkler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/Sparkler.java
+END
+RosterTreeCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/RosterTreeCellRenderer.java
+END
+SparklerDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/SparklerDecorator.java
+END
+ContactList.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/13076/spark/trunk/src/java/org/jivesoftware/spark/ui/ContactList.java
+END
+ReconnectPanelSmall.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/ReconnectPanelSmall.java
+END
+MessageFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/MessageFilter.java
+END
+DataFormUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/12432/spark/trunk/src/java/org/jivesoftware/spark/ui/DataFormUI.java
+END
+GroupChatRoomTransferHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/GroupChatRoomTransferHandler.java
+END
+MessageEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/MessageEventListener.java
+END
+CustomPainter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/CustomPainter.java
+END
+FromJIDFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/FromJIDFilter.java
+END
+SparkTabHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/SparkTabHandler.java
+END
+ChatInputEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/12483/spark/trunk/src/java/org/jivesoftware/spark/ui/ChatInputEditor.java
+END
+ContactGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/12920/spark/trunk/src/java/org/jivesoftware/spark/ui/ContactGroup.java
+END
+ContactItemHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/ContactItemHandler.java
+END
+ChatArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/12590/spark/trunk/src/java/org/jivesoftware/spark/ui/ChatArea.java
+END
+ChatRoomNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/ChatRoomNotFoundException.java
+END
+ReconnectPanelIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/ReconnectPanelIcon.java
+END
+PresenceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/PresenceListener.java
+END
+GlobalMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/GlobalMessageListener.java
+END
+ContactGroupTransferHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12581/spark/trunk/src/java/org/jivesoftware/spark/ui/ContactGroupTransferHandler.java
+END
+ChatFrameToFrontListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/12281/spark/trunk/src/java/org/jivesoftware/spark/ui/ChatFrameToFrontListener.java
+END
+ChatRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/13055/spark/trunk/src/java/org/jivesoftware/spark/ui/ChatRoom.java
+END
+LinkInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/LinkInterceptor.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/4456/spark/trunk/src/java/org/jivesoftware/spark/ui/package.html
+END
+ChatRoomTransferHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/ChatRoomTransferHandler.java
+END
+VCardPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/12432/spark/trunk/src/java/org/jivesoftware/spark/ui/VCardPanel.java
+END
+RosterPickList.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/12581/spark/trunk/src/java/org/jivesoftware/spark/ui/RosterPickList.java
+END
+TranscriptAlert.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/TranscriptAlert.java
+END
+TranscriptWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/12583/spark/trunk/src/java/org/jivesoftware/spark/ui/TranscriptWindow.java
+END
+VCardViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/VCardViewer.java
+END
+ChatContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/13056/spark/trunk/src/java/org/jivesoftware/spark/ui/ChatContainer.java
+END
+RawPacketSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/12473/spark/trunk/src/java/org/jivesoftware/spark/ui/RawPacketSender.java
+END
+ChatRoomListenerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/ChatRoomListenerAdapter.java
+END
+RosterNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/RosterNode.java
+END
+BareAddressFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/BareAddressFilter.java
+END
+ChatFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/12483/spark/trunk/src/java/org/jivesoftware/spark/ui/ChatFrame.java
+END
+MessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/MessageListener.java
+END
+ChatRoomPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/ChatRoomPlugin.java
+END
+ContactListListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/ContactListListener.java
+END
+CommandPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/12581/spark/trunk/src/java/org/jivesoftware/spark/ui/CommandPanel.java
+END
+RosterDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/12851/spark/trunk/src/java/org/jivesoftware/spark/ui/RosterDialog.java
+END

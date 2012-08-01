@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/12435/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/common/scheduler
+END
+Timer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/12435/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/common/scheduler/Timer.java
+END
+TimerTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/common/scheduler/TimerTask.java
+END

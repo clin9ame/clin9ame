@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/12867/spark/trunk/src/java/org/jivesoftware/spark/filetransfer
+END
+SparkTransferManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12867/spark/trunk/src/java/org/jivesoftware/spark/filetransfer/SparkTransferManager.java
+END
+ChatRoomTransferDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/12582/spark/trunk/src/java/org/jivesoftware/spark/filetransfer/ChatRoomTransferDecorator.java
+END
+FileTransferListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/filetransfer/FileTransferListener.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/4456/spark/trunk/src/java/org/jivesoftware/spark/filetransfer/package.html
+END

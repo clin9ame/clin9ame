@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/13075/openfire/trunk/src/java/org/jivesoftware/openfire
+END
+PrivateStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/11691/openfire/trunk/src/java/org/jivesoftware/openfire/PrivateStorage.java
+END
+Connection.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/12235/openfire/trunk/src/java/org/jivesoftware/openfire/Connection.java
+END
+ChannelNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/ChannelNotFoundException.java
+END
+OfflineMessageStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/11798/openfire/trunk/src/java/org/jivesoftware/openfire/OfflineMessageStore.java
+END
+MulticastRouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/MulticastRouter.java
+END
+StreamID.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/StreamID.java
+END
+PacketRouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/PacketRouter.java
+END
+Channel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/Channel.java
+END
+PacketDeliverer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/PacketDeliverer.java
+END
+OfflineMessageStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/OfflineMessageStrategy.java
+END
+XMPPServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/13016/openfire/trunk/src/java/org/jivesoftware/openfire/XMPPServer.java
+END
+SessionPacketRouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/SessionPacketRouter.java
+END
+SessionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/SessionManager.java
+END
+RemotePacketRouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/RemotePacketRouter.java
+END
+OfflineMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/OfflineMessage.java
+END
+SessionResultFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/SessionResultFilter.java
+END
+LocalSessionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/LocalSessionManager.java
+END
+FlashCrossDomainHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/FlashCrossDomainHandler.java
+END
+PresenceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/PresenceManager.java
+END
+XMPPContextListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/XMPPContextListener.java
+END
+RemoteConnectionFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/RemoteConnectionFailedException.java
+END
+RoutingTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/11527/openfire/trunk/src/java/org/jivesoftware/openfire/RoutingTable.java
+END
+StreamIDFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/StreamIDFactory.java
+END
+SharedGroupException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/SharedGroupException.java
+END
+RoutableChannelHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/RoutableChannelHandler.java
+END
+PresenceRouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/PresenceRouter.java
+END
+ChannelHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/ChannelHandler.java
+END
+IQRouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/IQRouter.java
+END
+ServerPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/ServerPort.java
+END
+SessionNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/SessionNotFoundException.java
+END
+XMPPServerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/XMPPServerListener.java
+END
+IQHandlerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/IQHandlerInfo.java
+END
+MessageRouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/MessageRouter.java
+END
+PacketException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/PacketException.java
+END
+XMPPServerInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/XMPPServerInfo.java
+END
+ConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/ConnectionManager.java
+END
+ConnectionCloseListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/ConnectionCloseListener.java
+END
+OfflineMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/OfflineMessageListener.java
+END

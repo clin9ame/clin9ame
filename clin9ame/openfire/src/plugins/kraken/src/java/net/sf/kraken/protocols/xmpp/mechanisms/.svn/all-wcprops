@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12870/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/xmpp/mechanisms
+END
+MySASLDigestMD5Mechanism.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/xmpp/mechanisms/MySASLDigestMD5Mechanism.java
+END
+FacebookSASLDigestMD5Mechanism.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/xmpp/mechanisms/FacebookSASLDigestMD5Mechanism.java
+END
+FacebookConnectSASLMechanism.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/repos/!svn/ver/12870/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/xmpp/mechanisms/FacebookConnectSASLMechanism.java
+END

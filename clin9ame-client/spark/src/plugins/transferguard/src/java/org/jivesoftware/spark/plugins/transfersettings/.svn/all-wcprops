@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/!svn/ver/13087/spark/trunk/src/plugins/transferguard/src/java/org/jivesoftware/spark/plugins/transfersettings
+END
+TGuardRes.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/!svn/ver/13087/spark/trunk/src/plugins/transferguard/src/java/org/jivesoftware/spark/plugins/transfersettings/TGuardRes.java
+END
+FileTransferSettingsPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/repos/!svn/ver/13087/spark/trunk/src/plugins/transferguard/src/java/org/jivesoftware/spark/plugins/transfersettings/FileTransferSettingsPlugin.java
+END
+TransferSettingsPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/repos/!svn/ver/13087/spark/trunk/src/plugins/transferguard/src/java/org/jivesoftware/spark/plugins/transfersettings/TransferSettingsPreference.java
+END
+FileTransferSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/transferguard/src/java/org/jivesoftware/spark/plugins/transfersettings/FileTransferSettings.java
+END
+TransferSettingsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/repos/!svn/ver/13087/spark/trunk/src/plugins/transferguard/src/java/org/jivesoftware/spark/plugins/transfersettings/TransferSettingsPanel.java
+END

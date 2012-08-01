@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/10447/openfire/trunk/src/plugins/clientControl/src/database
+END
+import_db2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/10382/openfire/trunk/src/plugins/clientControl/src/database/import_db2.sql
+END
+clientcontrol_postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/10447/openfire/trunk/src/plugins/clientControl/src/database/clientcontrol_postgresql.sql
+END
+clientcontrol_mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/10447/openfire/trunk/src/plugins/clientControl/src/database/clientcontrol_mysql.sql
+END
+clientcontrol_oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/10447/openfire/trunk/src/plugins/clientControl/src/database/clientcontrol_oracle.sql
+END
+clientcontrol_sqlserver.sql
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/10447/openfire/trunk/src/plugins/clientControl/src/database/clientcontrol_sqlserver.sql
+END
+clientcontrol_db2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/10447/openfire/trunk/src/plugins/clientControl/src/database/clientcontrol_db2.sql
+END
+import_hsqldb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/10382/openfire/trunk/src/plugins/clientControl/src/database/import_hsqldb.sql
+END
+clientcontrol_hsqldb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/10447/openfire/trunk/src/plugins/clientControl/src/database/clientcontrol_hsqldb.sql
+END
+import_postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/10382/openfire/trunk/src/plugins/clientControl/src/database/import_postgresql.sql
+END
+import_mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/10382/openfire/trunk/src/plugins/clientControl/src/database/import_mysql.sql
+END
+import_oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/10382/openfire/trunk/src/plugins/clientControl/src/database/import_oracle.sql
+END
+import_sqlserver.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/10382/openfire/trunk/src/plugins/clientControl/src/database/import_sqlserver.sql
+END

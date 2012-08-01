@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/openfire/src/web/WEB-INF/lib/commons-io.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/web/WEB-INF/lib/dwr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/web/WEB-INF/lib/commons-fileupload.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

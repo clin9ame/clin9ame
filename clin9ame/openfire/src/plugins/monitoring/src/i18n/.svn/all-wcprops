@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/src/i18n
+END
+monitoring_i18n.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/src/i18n/monitoring_i18n.properties
+END
+monitoring_i18n_cs_CZ.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/src/i18n/monitoring_i18n_cs_CZ.properties
+END
+monitoring_i18n_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/src/i18n/monitoring_i18n_zh_CN.properties
+END
+monitoring_i18n_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/src/i18n/monitoring_i18n_pt_BR.properties
+END
+monitoring_i18n_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/src/i18n/monitoring_i18n_es.properties
+END
+monitoring_i18n_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/src/i18n/monitoring_i18n_fr.properties
+END

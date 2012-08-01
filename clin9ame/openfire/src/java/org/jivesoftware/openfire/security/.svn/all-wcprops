@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/11792/openfire/trunk/src/java/org/jivesoftware/openfire/security
+END
+SecurityAuditEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/security/SecurityAuditEvent.java
+END
+AuditWriteOnlyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/security/AuditWriteOnlyException.java
+END
+SecurityAuditManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/security/SecurityAuditManager.java
+END
+SecurityAuditProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/security/SecurityAuditProvider.java
+END
+EventNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/security/EventNotFoundException.java
+END
+DefaultSecurityAuditProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/11792/openfire/trunk/src/java/org/jivesoftware/openfire/security/DefaultSecurityAuditProvider.java
+END

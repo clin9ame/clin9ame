@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/13104/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/gateways
+END
+GatewayItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/12172/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/gateways/GatewayItem.java
+END
+GatewayPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12435/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/gateways/GatewayPlugin.java
+END
+Gateway.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/gateways/Gateway.java
+END
+GatewayPrivateData.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/gateways/GatewayPrivateData.java
+END
+GatewayTabItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/12432/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/gateways/GatewayTabItem.java
+END
+TransportRegistrationDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/gateways/TransportRegistrationDialog.java
+END
+TransportItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/gateways/TransportItem.java
+END
+GatewayButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/gateways/GatewayButton.java
+END

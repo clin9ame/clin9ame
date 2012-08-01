@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/openfire/src/test/throttletest/build/lib/smackx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/test/throttletest/build/lib/smack.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

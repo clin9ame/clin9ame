@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/providers
+END
+AgentHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/providers/AgentHistory.java
+END
+SearchProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/providers/SearchProvider.java
+END
+SiteTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/providers/SiteTracker.java
+END
+EmailProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/providers/EmailProvider.java
+END
+MonitorProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/providers/MonitorProvider.java
+END
+SoundProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/providers/SoundProvider.java
+END
+WorkgroupPropertiesProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/providers/WorkgroupPropertiesProvider.java
+END
+ChatNotes.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/providers/ChatNotes.java
+END
+ChatMetadataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/providers/ChatMetadataProvider.java
+END
+MetadataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/providers/MetadataProvider.java
+END
+TrackingProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/providers/TrackingProvider.java
+END

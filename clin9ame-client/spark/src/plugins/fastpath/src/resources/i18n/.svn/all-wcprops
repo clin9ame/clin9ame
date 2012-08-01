@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/!svn/ver/12136/spark/trunk/src/plugins/fastpath/src/resources/i18n
+END
+fastpath_i18n_pl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12136/spark/trunk/src/plugins/fastpath/src/resources/i18n/fastpath_i18n_pl.properties
+END
+fastpath_i18n.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/10306/spark/trunk/src/plugins/fastpath/src/resources/i18n/fastpath_i18n.properties
+END
+fastpath_i18n_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/11746/spark/trunk/src/plugins/fastpath/src/resources/i18n/fastpath_i18n_pt_BR.properties
+END
+fastpath_i18n_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/11425/spark/trunk/src/plugins/fastpath/src/resources/i18n/fastpath_i18n_es.properties
+END
+fastpath_i18n_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/11754/spark/trunk/src/plugins/fastpath/src/resources/i18n/fastpath_i18n_de.properties
+END

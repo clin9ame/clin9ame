@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/xmpp/packet
+END
+ProbePacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/xmpp/packet/ProbePacket.java
+END
+VCardUpdateExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/xmpp/packet/VCardUpdateExtension.java
+END
+GoogleMailBoxPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/xmpp/packet/GoogleMailBoxPacket.java
+END
+GoogleMailSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/xmpp/packet/GoogleMailSender.java
+END
+AttentionExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/xmpp/packet/AttentionExtension.java
+END
+GoogleMailNotifyExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/xmpp/packet/GoogleMailNotifyExtension.java
+END
+GoogleNewMailExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/xmpp/packet/GoogleNewMailExtension.java
+END
+GoogleUserSettingExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/xmpp/packet/GoogleUserSettingExtension.java
+END
+BuzzExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/xmpp/packet/BuzzExtension.java
+END
+GoogleMailThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/xmpp/packet/GoogleMailThread.java
+END
+IQWithPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/xmpp/packet/IQWithPacketExtension.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/events
+END
+UserActionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/events/UserActionListener.java
+END
+UserCallControlEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/events/UserCallControlEvent.java
+END

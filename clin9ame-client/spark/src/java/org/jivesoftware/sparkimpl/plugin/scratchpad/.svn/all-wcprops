@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/13051/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/scratchpad
+END
+TaskUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/12432/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/scratchpad/TaskUI.java
+END
+Task.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/scratchpad/Task.java
+END
+PrivateNotes.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/scratchpad/PrivateNotes.java
+END
+Tasks.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/scratchpad/Tasks.java
+END
+TaskNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/13051/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/scratchpad/TaskNotification.java
+END
+ScratchPadPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/13051/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/scratchpad/ScratchPadPlugin.java
+END

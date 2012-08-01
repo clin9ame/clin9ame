@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/12499/spark/trunk/src/plugins/tictactoe/src/java/tic/tac/toe/packet
+END
+GameOfferPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12496/spark/trunk/src/plugins/tictactoe/src/java/tic/tac/toe/packet/GameOfferPacket.java
+END
+InvalidMove.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/12499/spark/trunk/src/plugins/tictactoe/src/java/tic/tac/toe/packet/InvalidMove.java
+END
+MovePacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/12496/spark/trunk/src/plugins/tictactoe/src/java/tic/tac/toe/packet/MovePacket.java
+END

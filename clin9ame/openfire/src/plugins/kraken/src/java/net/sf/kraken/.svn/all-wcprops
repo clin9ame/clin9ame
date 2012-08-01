@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/12870/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken
+END
+TransportInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/TransportInstance.java
+END
+BaseTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/BaseTransport.java
+END
+KrakenPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/KrakenPlugin.java
+END

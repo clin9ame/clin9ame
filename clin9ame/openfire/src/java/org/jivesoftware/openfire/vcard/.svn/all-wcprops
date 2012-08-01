@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/11691/openfire/trunk/src/java/org/jivesoftware/openfire/vcard
+END
+DefaultVCardProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/11691/openfire/trunk/src/java/org/jivesoftware/openfire/vcard/DefaultVCardProvider.java
+END
+VCardListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/vcard/VCardListener.java
+END
+VCardEventDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/vcard/VCardEventDispatcher.java
+END
+VCardManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/vcard/VCardManager.java
+END
+VCardProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/vcard/VCardProvider.java
+END

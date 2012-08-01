@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/12954/openfire/trunk/src/plugins/gojara/src/java/org/jivesoftware/openfire/plugin/gojara/database
+END
+DatabaseManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/repos/!svn/ver/12954/openfire/trunk/src/plugins/gojara/src/java/org/jivesoftware/openfire/plugin/gojara/database/DatabaseManager.java
+END
+LogEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/!svn/ver/12951/openfire/trunk/src/plugins/gojara/src/java/org/jivesoftware/openfire/plugin/gojara/database/LogEntry.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/simple
+END
+SimpleListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/simple/SimpleListener.java
+END
+SimpleBuddy.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/simple/SimpleBuddy.java
+END
+SimpleTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/simple/SimpleTransport.java
+END
+SimpleSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/simple/SimpleSession.java
+END
+SimplePresence.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/simple/SimplePresence.java
+END

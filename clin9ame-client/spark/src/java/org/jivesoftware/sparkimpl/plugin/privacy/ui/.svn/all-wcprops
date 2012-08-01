@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/12521/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/privacy/ui
+END
+PrivacyPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/12510/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/privacy/ui/PrivacyPreferences.java
+END
+PrivacyTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12396/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/privacy/ui/PrivacyTreeNode.java
+END
+PrivacyAddDialogUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/12487/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/privacy/ui/PrivacyAddDialogUI.java
+END
+PrivacyTreeCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/!svn/ver/12396/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/privacy/ui/PrivacyTreeCellRenderer.java
+END
+PrivacyListTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12521/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/privacy/ui/PrivacyListTree.java
+END

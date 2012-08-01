@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/settings/offline
+END
+OfflineSettingsNotFound.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/settings/offline/OfflineSettingsNotFound.java
+END
+OfflineSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/settings/offline/OfflineSettings.java
+END
+OfflineSettingsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/settings/offline/OfflineSettingsManager.java
+END
+OfflineSettingsProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/settings/offline/OfflineSettingsProvider.java
+END

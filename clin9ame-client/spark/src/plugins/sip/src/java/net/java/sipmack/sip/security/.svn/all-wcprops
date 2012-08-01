@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/security
+END
+SecurityAuthority.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/security/SecurityAuthority.java
+END
+CredentialsCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/security/CredentialsCache.java
+END
+SipSecurityException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/security/SipSecurityException.java
+END
+CredentialsCacheEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/security/CredentialsCacheEntry.java
+END
+MessageDigestAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/security/MessageDigestAlgorithm.java
+END
+Credentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/security/Credentials.java
+END
+SipSecurityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/security/SipSecurityManager.java
+END

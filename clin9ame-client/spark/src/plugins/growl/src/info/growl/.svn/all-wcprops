@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/12254/spark/trunk/src/plugins/growl/src/info/growl
+END
+GrowlNative.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/12254/spark/trunk/src/plugins/growl/src/info/growl/GrowlNative.java
+END
+DummyGrowl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/12230/spark/trunk/src/plugins/growl/src/info/growl/DummyGrowl.java
+END
+GrowlException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/12230/spark/trunk/src/plugins/growl/src/info/growl/GrowlException.java
+END
+Growl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/12230/spark/trunk/src/plugins/growl/src/info/growl/Growl.java
+END
+GrowlUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/12230/spark/trunk/src/plugins/growl/src/info/growl/GrowlUtils.java
+END
+GrowlCallbackListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/12230/spark/trunk/src/plugins/growl/src/info/growl/GrowlCallbackListener.java
+END

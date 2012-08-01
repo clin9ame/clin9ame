@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/13104/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/privacy
+END
+PrivacyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/13104/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/privacy/PrivacyManager.java
+END
+PrivacyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/12435/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/privacy/PrivacyException.java
+END
+PrivacyPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/13102/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/privacy/PrivacyPlugin.java
+END

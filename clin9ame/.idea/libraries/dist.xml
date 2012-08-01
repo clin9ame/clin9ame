@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="dist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/dist/mysql.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/dist/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/dist/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/dist/bouncycastle.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/dist/hsqldb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/dist/servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/dist/jdic.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/dist/jtds.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/dist/slf4j-log4j12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/dist/postgres.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

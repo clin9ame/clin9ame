@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/repos/!svn/ver/13039/openfire/trunk/build/lib
+END
+jmock-legacy.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/!svn/ver/8477/openfire/trunk/build/lib/jmock-legacy.jar
+END
+jasper-runtime.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/jasper-runtime.jar
+END
+ant-jive-edition.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/ant-jive-edition.jar
+END
+hamcrest-library.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/8477/openfire/trunk/build/lib/hamcrest-library.jar
+END
+commons-el.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/commons-el.jar
+END
+qdox.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/qdox.jar
+END
+versions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/!svn/ver/13039/openfire/trunk/build/lib/versions.txt
+END
+hamcrest-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/!svn/ver/8477/openfire/trunk/build/lib/hamcrest-api.jar
+END
+jmock-junit4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/!svn/ver/8477/openfire/trunk/build/lib/jmock-junit4.jar
+END
+ant-contrib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/ant-contrib.jar
+END
+objenesis.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/!svn/ver/8477/openfire/trunk/build/lib/objenesis.jar
+END
+ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/ant.jar
+END
+cglib-nodep.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/8477/openfire/trunk/build/lib/cglib-nodep.jar
+END
+pack200task.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/pack200task.jar
+END
+xmltask.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/xmltask.jar
+END
+junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/repos/!svn/ver/8477/openfire/trunk/build/lib/junit.jar
+END
+i4jruntime.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/i4jruntime.jar
+END
+ant-subdirtask.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/ant-subdirtask.jar
+END
+jasper-compiler.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/jasper-compiler.jar
+END
+jmock.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/repos/!svn/ver/8477/openfire/trunk/build/lib/jmock.jar
+END

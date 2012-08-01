@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/update
+END
+AvailablePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/update/AvailablePlugin.java
+END
+PluginDownloadManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/update/PluginDownloadManager.java
+END
+Update.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/update/Update.java
+END
+DownloadStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/update/DownloadStatus.java
+END
+UpdateManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/update/UpdateManager.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/7872/openfire/trunk/src/java/org/jivesoftware/openfire/update/package.html
+END

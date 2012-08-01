@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/interceptor
+END
+PacketInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/interceptor/PacketInterceptor.java
+END
+InterceptorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/interceptor/InterceptorManager.java
+END
+PacketCopier.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/interceptor/PacketCopier.java
+END
+PacketRejectedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/interceptor/PacketRejectedException.java
+END

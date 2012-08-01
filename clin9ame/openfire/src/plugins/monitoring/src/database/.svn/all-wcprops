@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/src/database
+END
+import_db2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/src/database/import_db2.sql
+END
+monitoring_hsqldb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/src/database/monitoring_hsqldb.sql
+END
+import_hsqldb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/src/database/import_hsqldb.sql
+END
+monitoring_postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/src/database/monitoring_postgresql.sql
+END
+monitoring_mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/src/database/monitoring_mysql.sql
+END
+monitoring_oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/src/database/monitoring_oracle.sql
+END
+monitoring_sqlserver.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/src/database/monitoring_sqlserver.sql
+END
+monitoring_db2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/src/database/monitoring_db2.sql
+END
+import_postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/src/database/import_postgresql.sql
+END
+import_mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/src/database/import_mysql.sql
+END
+import_oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/src/database/import_oracle.sql
+END
+import_sqlserver.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/src/database/import_sqlserver.sql
+END

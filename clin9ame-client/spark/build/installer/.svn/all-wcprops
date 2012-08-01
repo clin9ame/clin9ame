@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/repos/!svn/ver/12940/spark/trunk/build/installer
+END
+spark.aip.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/11393/spark/trunk/build/installer/spark.aip.tmpl
+END
+spark.install4j
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/!svn/ver/12940/spark/trunk/build/installer/spark.install4j
+END
+spark.aip
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/!svn/ver/11393/spark/trunk/build/installer/spark.aip
+END
+spark_install4j_3_2_1.install4j
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/7349/spark/trunk/build/installer/spark_install4j_3_2_1.install4j
+END
+spark.iss
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/!svn/ver/11255/spark/trunk/build/installer/spark.iss
+END
+spark-izpack.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/11038/spark/trunk/build/installer/spark-izpack.xml
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/!svn/ver/13061/spark/trunk/src/plugins/spelling/src/resources/i18n
+END
+spellchecker_i18n_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/11412/spark/trunk/src/plugins/spelling/src/resources/i18n/spellchecker_i18n_zh_CN.properties
+END
+spellchecker_i18n_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/12886/spark/trunk/src/plugins/spelling/src/resources/i18n/spellchecker_i18n_fr.properties
+END
+spellchecker_i18n_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/12425/spark/trunk/src/plugins/spelling/src/resources/i18n/spellchecker_i18n_de.properties
+END
+spellchecker_i18n_pl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/13061/spark/trunk/src/plugins/spelling/src/resources/i18n/spellchecker_i18n_pl.properties
+END
+spellchecker_i18n_ru_RU.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/11404/spark/trunk/src/plugins/spelling/src/resources/i18n/spellchecker_i18n_ru_RU.properties
+END
+spellchecker_i18n_lt.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/12428/spark/trunk/src/plugins/spelling/src/resources/i18n/spellchecker_i18n_lt.properties
+END
+spellchecker_i18n.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/12425/spark/trunk/src/plugins/spelling/src/resources/i18n/spellchecker_i18n.properties
+END

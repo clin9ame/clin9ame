@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/growl/src/com/jivesoftware/spark/plugin/growl
+END
+GrowlMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/growl/src/com/jivesoftware/spark/plugin/growl/GrowlMessageListener.java
+END
+GrowlPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/growl/src/com/jivesoftware/spark/plugin/growl/GrowlPlugin.java
+END
+GrowlPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/growl/src/com/jivesoftware/spark/plugin/growl/GrowlPreference.java
+END
+GrowlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/growl/src/com/jivesoftware/spark/plugin/growl/GrowlTest.java
+END
+GrowlTalker.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12230/spark/trunk/src/plugins/growl/src/com/jivesoftware/spark/plugin/growl/GrowlTalker.java
+END

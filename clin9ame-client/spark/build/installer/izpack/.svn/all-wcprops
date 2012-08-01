@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repos/!svn/ver/11161/spark/trunk/build/installer/izpack
+END
+spark
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/!svn/ver/11038/spark/trunk/build/installer/izpack/spark
+END
+RegistrySpec.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/!svn/ver/10992/spark/trunk/build/installer/izpack/RegistrySpec.xml
+END
+launch4j.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/11161/spark/trunk/build/installer/izpack/launch4j.tmpl
+END
+launch4j-starter.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/11161/spark/trunk/build/installer/izpack/launch4j-starter.tmpl
+END
+unix_shortcutSpec.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/10992/spark/trunk/build/installer/izpack/unix_shortcutSpec.xml
+END
+default_shortcutSpec.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/10992/spark/trunk/build/installer/izpack/default_shortcutSpec.xml
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/11696/openfire/trunk/src/java/org/jivesoftware/database
+END
+CachedPreparedStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/database/CachedPreparedStatement.java
+END
+DefaultConnectionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/database/DefaultConnectionProvider.java
+END
+DbConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/11696/openfire/trunk/src/java/org/jivesoftware/database/DbConnectionManager.java
+END
+DefaultConnectionProviderBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/database/DefaultConnectionProviderBeanInfo.java
+END
+SequenceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/11691/openfire/trunk/src/java/org/jivesoftware/database/SequenceManager.java
+END
+EmbeddedConnectionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/11691/openfire/trunk/src/java/org/jivesoftware/database/EmbeddedConnectionProvider.java
+END
+ConnectionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/database/ConnectionProvider.java
+END
+JNDIDataSourceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/database/JNDIDataSourceProvider.java
+END
+JiveID.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/database/JiveID.java
+END
+SchemaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/11691/openfire/trunk/src/java/org/jivesoftware/database/SchemaManager.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/7872/openfire/trunk/src/java/org/jivesoftware/database/package.html
+END

@@ -1,0 +1,85 @@
+10
+
+dir
+13214
+http://svn.igniterealtime.org/svn/repos/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin
+http://svn.igniterealtime.org/svn/repos
+
+
+
+2012-06-09T11:13:56.523718Z
+13104
+mirceac
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b35dd754-fafc-0310-a699-88a17e54d16e
+
+chat
+dir
+
+language
+dir
+
+gateways
+dir
+
+filetransfer
+dir
+
+jabber
+dir
+
+bookmarks
+dir
+
+alerts
+dir
+
+emoticons
+dir
+
+history
+dir
+
+viewer
+dir
+
+sparklers
+dir
+
+phone
+dir
+
+manager
+dir
+
+scratchpad
+dir
+
+transcripts
+dir
+
+privacy
+dir
+
+layout
+dir
+
+idle
+dir
+
+systray
+dir
+

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/disco
+END
+DiscoItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/disco/DiscoItem.java
+END
+ServerFeaturesProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/disco/ServerFeaturesProvider.java
+END
+ServerIdentitiesProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/disco/ServerIdentitiesProvider.java
+END
+ServerItemsProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/disco/ServerItemsProvider.java
+END
+IQDiscoInfoHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/disco/IQDiscoInfoHandler.java
+END
+DiscoServerItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/disco/DiscoServerItem.java
+END
+DiscoInfoProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/disco/DiscoInfoProvider.java
+END
+IQDiscoItemsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/disco/IQDiscoItemsHandler.java
+END
+UserIdentitiesProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/disco/UserIdentitiesProvider.java
+END
+UserItemsProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/disco/UserItemsProvider.java
+END
+DiscoItemsProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/disco/DiscoItemsProvider.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/7872/openfire/trunk/src/java/org/jivesoftware/openfire/disco/package.html
+END

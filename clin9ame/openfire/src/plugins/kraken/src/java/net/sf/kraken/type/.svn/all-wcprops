@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/type
+END
+ConnectionFailureReason.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/type/ConnectionFailureReason.java
+END
+SupportedFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/type/SupportedFeature.java
+END
+ChatStateType.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/type/ChatStateType.java
+END
+PresenceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/type/PresenceType.java
+END
+TransportLoginStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/type/TransportLoginStatus.java
+END
+NameSpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/type/NameSpace.java
+END
+TransportType.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/type/TransportType.java
+END

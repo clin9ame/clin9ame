@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="lib6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/kraken/lib/martyr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/kraken/lib/xmlrpc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/kraken/lib/smackx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/kraken/lib/dwr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/kraken/lib/smack.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/kraken/lib/msim.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/kraken/lib/jml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/kraken/lib/jggapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/kraken/lib/joscar-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/kraken/lib/jainsipri.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/kraken/lib/stcomm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/kraken/lib/openymsg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/kraken/lib/jsocks.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/kraken/lib/jakarta-regexp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/kraken/lib/jqql.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/kraken/lib/jcip-annotations.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/kraken/lib/httpclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/kraken/lib/joscar-protocol.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/kraken/lib/jainsipapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/kraken/lib/json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/kraken/lib/httpcore.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/kraken/lib/concurrent.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/admin/group
+END
+DeleteGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/admin/group/DeleteGroup.java
+END
+UpdateGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/admin/group/UpdateGroup.java
+END
+DeleteGroupUsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/admin/group/DeleteGroupUsers.java
+END
+AddGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/admin/group/AddGroup.java
+END
+AddGroupUsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/admin/group/AddGroupUsers.java
+END
+GetListGroupUsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/admin/group/GetListGroupUsers.java
+END
+GetListGroups.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/admin/group/GetListGroups.java
+END

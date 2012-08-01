@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/!svn/ver/13104/spark/trunk/src/java/org/jivesoftware
+END
+Spark.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/13064/spark/trunk/src/java/org/jivesoftware/Spark.java
+END
+AccountCreationWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/AccountCreationWizard.java
+END
+MainWindowListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/MainWindowListener.java
+END
+LoginSettingDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/12543/spark/trunk/src/java/org/jivesoftware/LoginSettingDialog.java
+END
+LoginDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/13103/spark/trunk/src/java/org/jivesoftware/LoginDialog.java
+END
+SparkStartupListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/SparkStartupListener.java
+END
+SparkCompatibility.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/12377/spark/trunk/src/java/org/jivesoftware/SparkCompatibility.java
+END
+Restarter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/Restarter.java
+END
+MainWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/12584/spark/trunk/src/java/org/jivesoftware/MainWindow.java
+END
+GSSAPIConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/GSSAPIConfiguration.java
+END

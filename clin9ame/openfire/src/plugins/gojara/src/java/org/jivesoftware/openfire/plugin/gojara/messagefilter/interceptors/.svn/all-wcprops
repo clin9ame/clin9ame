@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/!svn/ver/13037/openfire/trunk/src/plugins/gojara/src/java/org/jivesoftware/openfire/plugin/gojara/messagefilter/interceptors
+END
+StatisticPackageInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/repos/!svn/ver/12951/openfire/trunk/src/plugins/gojara/src/java/org/jivesoftware/openfire/plugin/gojara/messagefilter/interceptors/StatisticPackageInterceptor.java
+END
+DiscoPackageInterceptorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/repos/!svn/ver/12995/openfire/trunk/src/plugins/gojara/src/java/org/jivesoftware/openfire/plugin/gojara/messagefilter/interceptors/DiscoPackageInterceptorHandler.java
+END
+IQLastInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/repos/!svn/ver/13037/openfire/trunk/src/plugins/gojara/src/java/org/jivesoftware/openfire/plugin/gojara/messagefilter/interceptors/IQLastInterceptor.java
+END

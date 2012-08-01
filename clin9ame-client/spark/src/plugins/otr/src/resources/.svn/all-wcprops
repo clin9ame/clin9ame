@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/!svn/ver/13061/spark/trunk/src/plugins/otr/src/resources
+END
+otr_off.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/12465/spark/trunk/src/plugins/otr/src/resources/otr_off.png
+END
+otr_on.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/12465/spark/trunk/src/plugins/otr/src/resources/otr_on.png
+END
+otr_pref.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/12465/spark/trunk/src/plugins/otr/src/resources/otr_pref.png
+END

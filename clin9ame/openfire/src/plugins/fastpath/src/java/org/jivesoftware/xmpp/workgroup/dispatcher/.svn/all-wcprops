@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/dispatcher
+END
+AgentSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/dispatcher/AgentSelector.java
+END
+DispatcherInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/dispatcher/DispatcherInfo.java
+END
+BasicDispatcherInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/dispatcher/BasicDispatcherInfo.java
+END
+Dispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/dispatcher/Dispatcher.java
+END
+RoundRobinDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/dispatcher/RoundRobinDispatcher.java
+END
+DispatcherInfoProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/dispatcher/DispatcherInfoProvider.java
+END

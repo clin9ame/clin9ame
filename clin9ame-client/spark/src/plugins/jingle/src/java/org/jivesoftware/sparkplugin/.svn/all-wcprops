@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/12435/spark/trunk/src/plugins/jingle/src/java/org/jivesoftware/sparkplugin
+END
+IncomingCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/jingle/src/java/org/jivesoftware/sparkplugin/IncomingCall.java
+END
+ControlPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/jingle/src/java/org/jivesoftware/sparkplugin/ControlPanel.java
+END
+JingleResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/jingle/src/java/org/jivesoftware/sparkplugin/JingleResources.java
+END
+JingleStateManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/jingle/src/java/org/jivesoftware/sparkplugin/JingleStateManager.java
+END
+JingleRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/12435/spark/trunk/src/plugins/jingle/src/java/org/jivesoftware/sparkplugin/JingleRoom.java
+END
+JinglePhoneRes.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/jingle/src/java/org/jivesoftware/sparkplugin/JinglePhoneRes.java
+END
+jingle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/7296/spark/trunk/src/plugins/jingle/src/java/org/jivesoftware/sparkplugin/jingle.properties
+END
+GenericNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/jingle/src/java/org/jivesoftware/sparkplugin/GenericNotification.java
+END
+JavaMixer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/jingle/src/java/org/jivesoftware/sparkplugin/JavaMixer.java
+END
+PreviousConversationPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/jingle/src/java/org/jivesoftware/sparkplugin/PreviousConversationPanel.java
+END
+OutgoingCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/jingle/src/java/org/jivesoftware/sparkplugin/OutgoingCall.java
+END
+JinglePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12407/spark/trunk/src/plugins/jingle/src/java/org/jivesoftware/sparkplugin/JinglePlugin.java
+END
+CallPanelButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/jingle/src/java/org/jivesoftware/sparkplugin/CallPanelButton.java
+END
+JingleTabHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/jingle/src/java/org/jivesoftware/sparkplugin/JingleTabHandler.java
+END
+IncomingCallUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/jingle/src/java/org/jivesoftware/sparkplugin/IncomingCallUI.java
+END
+RosterMemberCallButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/jingle/src/java/org/jivesoftware/sparkplugin/RosterMemberCallButton.java
+END

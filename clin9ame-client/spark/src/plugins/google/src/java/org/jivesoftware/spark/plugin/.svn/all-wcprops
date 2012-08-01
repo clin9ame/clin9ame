@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/google/src/java/org/jivesoftware/spark/plugin
+END
+GoogleSearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/google/src/java/org/jivesoftware/spark/plugin/GoogleSearchResult.java
+END
+GoogleSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/google/src/java/org/jivesoftware/spark/plugin/GoogleSearch.java
+END
+GoogleSearchable.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/google/src/java/org/jivesoftware/spark/plugin/GoogleSearchable.java
+END
+GoogleDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/google/src/java/org/jivesoftware/spark/plugin/GoogleDocument.java
+END
+GooglePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/google/src/java/org/jivesoftware/spark/plugin/GooglePlugin.java
+END
+GoogleFileViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/google/src/java/org/jivesoftware/spark/plugin/GoogleFileViewer.java
+END

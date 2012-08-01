@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/12959/openfire/trunk/src/plugins/gojara/src/database
+END
+gojara_postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/12959/openfire/trunk/src/plugins/gojara/src/database/gojara_postgresql.sql
+END
+gojara_mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/12951/openfire/trunk/src/plugins/gojara/src/database/gojara_mysql.sql
+END
+gojara_oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/12951/openfire/trunk/src/plugins/gojara/src/database/gojara_oracle.sql
+END
+gojara_sqlserver.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/12951/openfire/trunk/src/plugins/gojara/src/database/gojara_sqlserver.sql
+END
+gojara_sybase.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/12951/openfire/trunk/src/plugins/gojara/src/database/gojara_sybase.sql
+END
+gojara_db2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/12951/openfire/trunk/src/plugins/gojara/src/database/gojara_db2.sql
+END
+gojara_hsqldb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/12951/openfire/trunk/src/plugins/gojara/src/database/gojara_hsqldb.sql
+END

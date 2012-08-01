@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/12478/spark/trunk/src/plugins/spelling/src/java/org/jivesoftware/spellchecker
+END
+SpellcheckChatRoomListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/spelling/src/java/org/jivesoftware/spellchecker/SpellcheckChatRoomListener.java
+END
+SpellcheckerPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/spelling/src/java/org/jivesoftware/spellchecker/SpellcheckerPlugin.java
+END
+SpellcheckerPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/repos/!svn/ver/12425/spark/trunk/src/plugins/spelling/src/java/org/jivesoftware/spellchecker/SpellcheckerPreference.java
+END
+SpellcheckerPreferenceDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/!svn/ver/12425/spark/trunk/src/plugins/spelling/src/java/org/jivesoftware/spellchecker/SpellcheckerPreferenceDialog.java
+END
+SpellcheckerPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repos/!svn/ver/12468/spark/trunk/src/plugins/spelling/src/java/org/jivesoftware/spellchecker/SpellcheckerPreferences.java
+END
+SpellcheckManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/!svn/ver/12425/spark/trunk/src/plugins/spelling/src/java/org/jivesoftware/spellchecker/SpellcheckManager.java
+END
+SpellcheckerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/spelling/src/java/org/jivesoftware/spellchecker/SpellcheckerResource.java
+END
+SpellcheckChatRoomDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/!svn/ver/12478/spark/trunk/src/plugins/spelling/src/java/org/jivesoftware/spellchecker/SpellcheckChatRoomDecorator.java
+END

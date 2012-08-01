@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/13106/spark/trunk/src/plugins/transferguard/src/resources/i18n
+END
+transferguard_i18n.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/13087/spark/trunk/src/plugins/transferguard/src/resources/i18n/transferguard_i18n.properties
+END
+transferguard_i18n_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/13087/spark/trunk/src/plugins/transferguard/src/resources/i18n/transferguard_i18n_de.properties
+END
+transferguard_i18n_pl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/13106/spark/trunk/src/plugins/transferguard/src/resources/i18n/transferguard_i18n_pl.properties
+END

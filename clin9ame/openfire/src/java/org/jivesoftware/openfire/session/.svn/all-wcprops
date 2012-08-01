@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/12941/openfire/trunk/src/java/org/jivesoftware/openfire/session
+END
+LocalOutgoingServerSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/12239/openfire/trunk/src/java/org/jivesoftware/openfire/session/LocalOutgoingServerSession.java
+END
+GetSessionsCountTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/session/GetSessionsCountTask.java
+END
+ComponentSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/session/ComponentSession.java
+END
+LocalIncomingServerSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/12941/openfire/trunk/src/java/org/jivesoftware/openfire/session/LocalIncomingServerSession.java
+END
+LocalConnectionMultiplexerSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/session/LocalConnectionMultiplexerSession.java
+END
+LocalComponentSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/session/LocalComponentSession.java
+END
+ClientSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/session/ClientSession.java
+END
+Session.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/session/Session.java
+END
+RemoteSessionLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/session/RemoteSessionLocator.java
+END
+OutgoingServerSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/session/OutgoingServerSession.java
+END
+LocalClientSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/session/LocalClientSession.java
+END
+LocalSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/session/LocalSession.java
+END
+IncomingServerSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/session/IncomingServerSession.java
+END
+ConnectionMultiplexerSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/session/ConnectionMultiplexerSession.java
+END
+ClientSessionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/session/ClientSessionInfo.java
+END

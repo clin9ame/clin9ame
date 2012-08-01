@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/monitoring/lib/itext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/monitoring/lib/jfreechart.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/monitoring/lib/jcommon.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/monitoring/lib/picocontainer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/monitoring/lib/jrobin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/monitoring/lib/dwr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/monitoring/lib/lucene.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

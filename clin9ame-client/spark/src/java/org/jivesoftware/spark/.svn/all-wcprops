@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/!svn/ver/13100/spark/trunk/src/java/org/jivesoftware/spark
+END
+PresenceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/12910/spark/trunk/src/java/org/jivesoftware/spark/PresenceManager.java
+END
+ButtonFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/12898/spark/trunk/src/java/org/jivesoftware/spark/ButtonFactory.java
+END
+DataManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/12432/spark/trunk/src/java/org/jivesoftware/spark/DataManager.java
+END
+PluginRes.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/12591/spark/trunk/src/java/org/jivesoftware/spark/PluginRes.java
+END
+UserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/12851/spark/trunk/src/java/org/jivesoftware/spark/UserManager.java
+END
+ChatManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/12902/spark/trunk/src/java/org/jivesoftware/spark/ChatManager.java
+END
+SparkManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/SparkManager.java
+END
+ChatNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ChatNotFoundException.java
+END
+SessionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/SessionManager.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/4456/spark/trunk/src/java/org/jivesoftware/spark/package.html
+END
+NativeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/NativeManager.java
+END
+SoundManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/SoundManager.java
+END
+NativeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/NativeHandler.java
+END
+ChatAreaSendField.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ChatAreaSendField.java
+END
+PluginManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/12884/spark/trunk/src/java/org/jivesoftware/spark/PluginManager.java
+END
+Workspace.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/12581/spark/trunk/src/java/org/jivesoftware/spark/Workspace.java
+END

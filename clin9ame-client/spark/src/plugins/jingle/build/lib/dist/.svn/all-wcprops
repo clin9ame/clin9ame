@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/!svn/ver/12381/spark/trunk/src/plugins/jingle/build/lib/dist
+END
+Speex.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/11363/spark/trunk/src/plugins/jingle/build/lib/dist/Speex.jar
+END
+commons-logging-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/6678/spark/trunk/src/plugins/jingle/build/lib/dist/commons-logging-1.1.jar
+END
+smackx-jingle.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/12381/spark/trunk/src/plugins/jingle/build/lib/dist/smackx-jingle.jar
+END
+commons-logging-adapters-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/6678/spark/trunk/src/plugins/jingle/build/lib/dist/commons-logging-adapters-1.1.jar
+END
+concurrent.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/7303/spark/trunk/src/plugins/jingle/build/lib/dist/concurrent.jar
+END
+commons-logging-api-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/6678/spark/trunk/src/plugins/jingle/build/lib/dist/commons-logging-api-1.1.jar
+END
+jspeex-0.9.7-jfcom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/6678/spark/trunk/src/plugins/jingle/build/lib/dist/jspeex-0.9.7-jfcom.jar
+END
+log4j-1.2.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/7303/spark/trunk/src/plugins/jingle/build/lib/dist/log4j-1.2.8.jar
+END

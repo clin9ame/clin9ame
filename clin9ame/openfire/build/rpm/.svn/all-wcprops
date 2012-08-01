@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/repos/!svn/ver/13089/openfire/trunk/build/rpm
+END
+openfire.spec
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/11576/openfire/trunk/build/rpm/openfire.spec
+END
+jre-dist.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/!svn/ver/13089/openfire/trunk/build/rpm/jre-dist.tar.gz
+END

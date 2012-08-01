@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/13100/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/filetransfer/transfer/ui
+END
+TransferUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/!svn/ver/12493/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/filetransfer/transfer/ui/TransferUtils.java
+END
+ReceiveFileTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/!svn/ver/13100/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/filetransfer/transfer/ui/ReceiveFileTransfer.java
+END
+SendFileTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repos/!svn/ver/12502/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/filetransfer/transfer/ui/SendFileTransfer.java
+END

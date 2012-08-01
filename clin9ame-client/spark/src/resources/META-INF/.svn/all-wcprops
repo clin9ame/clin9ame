@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repos/!svn/ver/12434/spark/trunk/src/resources/META-INF
+END
+plugins.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/12434/spark/trunk/src/resources/META-INF/plugins.xml
+END
+mime.types
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/4456/spark/trunk/src/resources/META-INF/mime.types
+END

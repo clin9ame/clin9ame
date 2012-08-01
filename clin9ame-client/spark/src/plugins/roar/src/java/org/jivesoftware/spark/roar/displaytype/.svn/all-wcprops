@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/12457/spark/trunk/src/plugins/roar/src/java/org/jivesoftware/spark/roar/displaytype
+END
+SparkToasterHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/repos/!svn/ver/12443/spark/trunk/src/plugins/roar/src/java/org/jivesoftware/spark/roar/displaytype/SparkToasterHandler.java
+END
+TopRight.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/12457/spark/trunk/src/plugins/roar/src/java/org/jivesoftware/spark/roar/displaytype/TopRight.java
+END
+BottomRight.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/!svn/ver/12445/spark/trunk/src/plugins/roar/src/java/org/jivesoftware/spark/roar/displaytype/BottomRight.java
+END
+RoarDisplayType.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/!svn/ver/12411/spark/trunk/src/plugins/roar/src/java/org/jivesoftware/spark/roar/displaytype/RoarDisplayType.java
+END

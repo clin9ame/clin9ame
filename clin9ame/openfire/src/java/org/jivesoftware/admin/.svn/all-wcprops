@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/11685/openfire/trunk/src/java/org/jivesoftware/admin
+END
+SubSidebarTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/admin/SubSidebarTag.java
+END
+LdapUserProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/admin/LdapUserProfile.java
+END
+LoginLimitManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/admin/LoginLimitManager.java
+END
+LdapGroupTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/admin/LdapGroupTester.java
+END
+PluginFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/admin/PluginFilter.java
+END
+AuthCheckFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/admin/AuthCheckFilter.java
+END
+SidebarTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/11685/openfire/trunk/src/java/org/jivesoftware/admin/SidebarTag.java
+END
+TabsTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/admin/TabsTag.java
+END
+LdapUserTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/admin/LdapUserTester.java
+END
+SubnavTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/admin/SubnavTag.java
+END
+AdminConsole.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/admin/AdminConsole.java
+END
+AdminPageBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/admin/AdminPageBean.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/7872/openfire/trunk/src/java/org/jivesoftware/admin/package.html
+END

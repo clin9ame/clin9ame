@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/11683/openfire/trunk/src/java/org/jivesoftware/openfire/filetransfer
+END
+FileTransferManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/filetransfer/FileTransferManager.java
+END
+FileTransferInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/filetransfer/FileTransferInterceptor.java
+END
+DefaultFileTransferManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/filetransfer/DefaultFileTransferManager.java
+END
+FileTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/filetransfer/FileTransfer.java
+END
+FileTransferProgress.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/filetransfer/FileTransferProgress.java
+END
+FileTransferRejectedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/filetransfer/FileTransferRejectedException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/7872/openfire/trunk/src/java/org/jivesoftware/openfire/filetransfer/package.html
+END

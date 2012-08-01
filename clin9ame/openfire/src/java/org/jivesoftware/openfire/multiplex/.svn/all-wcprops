@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/11928/openfire/trunk/src/java/org/jivesoftware/openfire/multiplex
+END
+UnknownStanzaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/multiplex/UnknownStanzaException.java
+END
+MultiplexerPacketHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/multiplex/MultiplexerPacketHandler.java
+END
+ClientSessionConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/11928/openfire/trunk/src/java/org/jivesoftware/openfire/multiplex/ClientSessionConnection.java
+END
+MultiplexerPacketDeliverer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/multiplex/MultiplexerPacketDeliverer.java
+END
+ConnectionMultiplexerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/11928/openfire/trunk/src/java/org/jivesoftware/openfire/multiplex/ConnectionMultiplexerManager.java
+END
+Route.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/multiplex/Route.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/7872/openfire/trunk/src/java/org/jivesoftware/openfire/multiplex/package.html
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/session
+END
+TransportSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/session/TransportSession.java
+END
+TransportSessionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/session/TransportSessionManager.java
+END

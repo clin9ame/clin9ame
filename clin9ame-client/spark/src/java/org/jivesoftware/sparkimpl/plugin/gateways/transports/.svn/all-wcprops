@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/13104/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/gateways/transports
+END
+XMPPTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/XMPPTransport.java
+END
+SimpleTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/SimpleTransport.java
+END
+MSNTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/MSNTransport.java
+END
+TransportUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/!svn/ver/13104/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/TransportUtils.java
+END
+MySpaceTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/MySpaceTransport.java
+END
+GTalkTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/GTalkTransport.java
+END
+SametimeTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/SametimeTransport.java
+END
+AIMTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/AIMTransport.java
+END
+FacebookTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/FacebookTransport.java
+END
+ICQTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/ICQTransport.java
+END
+IRCTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/IRCTransport.java
+END
+YahooTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/YahooTransport.java
+END
+Transport.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/Transport.java
+END
+QQTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/QQTransport.java
+END
+GaduGaduTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/gateways/transports/GaduGaduTransport.java
+END

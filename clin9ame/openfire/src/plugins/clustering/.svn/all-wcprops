@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/!svn/ver/12978/openfire/trunk/src/plugins/clustering
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/readme.html
+END
+changelog.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/12942/openfire/trunk/src/plugins/clustering/changelog.html
+END
+tangosol-coherence-override.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/tangosol-coherence-override.xml
+END
+logo_small.gif
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/logo_small.gif
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/12942/openfire/trunk/src/plugins/clustering/plugin.xml
+END
+coherence-cache-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/11580/openfire/trunk/src/plugins/clustering/coherence-cache-config.xml
+END
+logo_large.gif
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/logo_large.gif
+END

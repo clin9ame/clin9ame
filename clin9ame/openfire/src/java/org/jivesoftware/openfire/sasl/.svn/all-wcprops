@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/sasl
+END
+SaslServerPlainImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/sasl/SaslServerPlainImpl.java
+END
+SaslServerFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/sasl/SaslServerFactoryImpl.java
+END
+VerifyPasswordCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/sasl/VerifyPasswordCallback.java
+END
+SaslProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/sasl/SaslProvider.java
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/oscar
+END
+OSCARBuddy.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/oscar/OSCARBuddy.java
+END
+PendingSnacListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/oscar/PendingSnacListener.java
+END
+PendingSnacMgr.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/oscar/PendingSnacMgr.java
+END
+SnacManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/oscar/SnacManager.java
+END
+ServiceConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/oscar/ServiceConnection.java
+END
+BOSConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/oscar/BOSConnection.java
+END
+BasicFlapConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/oscar/BasicFlapConnection.java
+END
+OSCARTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/oscar/OSCARTransport.java
+END
+AbstractFlapConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/oscar/AbstractFlapConnection.java
+END
+EmailConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/oscar/EmailConnection.java
+END
+LoginConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/oscar/LoginConnection.java
+END
+OSCARSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/oscar/OSCARSession.java
+END
+LoginICQFlapCmd.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/oscar/LoginICQFlapCmd.java
+END
+SSIHierarchy.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/oscar/SSIHierarchy.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/12848/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/chat
+END
+ContactListAssistantPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/12848/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/chat/ContactListAssistantPlugin.java
+END
+ChatArgumentsPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/chat/ChatArgumentsPlugin.java
+END
+PresenceChangePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/12581/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/chat/PresenceChangePlugin.java
+END
+ShortcutPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/chat/ShortcutPlugin.java
+END

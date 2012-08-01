@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/13049/spark/trunk/src/java/org/jivesoftware/sparkimpl/profile
+END
+PersonalPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/12435/spark/trunk/src/java/org/jivesoftware/sparkimpl/profile/PersonalPanel.java
+END
+VCardListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/profile/VCardListener.java
+END
+VCardEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/12490/spark/trunk/src/java/org/jivesoftware/sparkimpl/profile/VCardEditor.java
+END
+HomePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/profile/HomePanel.java
+END
+VCardManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/13049/spark/trunk/src/java/org/jivesoftware/sparkimpl/profile/VCardManager.java
+END
+BusinessPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/profile/BusinessPanel.java
+END
+AvatarPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/12435/spark/trunk/src/java/org/jivesoftware/sparkimpl/profile/AvatarPanel.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/admin
+END
+GetNumberOnlineUsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/admin/GetNumberOnlineUsers.java
+END
+HttpBindStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/admin/HttpBindStatus.java
+END
+PacketsNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/admin/PacketsNotification.java
+END
+GetServerStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/admin/GetServerStats.java
+END
+GetNumberActiveUsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/admin/GetNumberActiveUsers.java
+END
+GetUsersPresence.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/admin/GetUsersPresence.java
+END
+GetAdminConsoleInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/admin/GetAdminConsoleInfo.java
+END
+GetListActiveUsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/admin/GetListActiveUsers.java
+END
+GetNumberUserSessions.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/admin/GetNumberUserSessions.java
+END

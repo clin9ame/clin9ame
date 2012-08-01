@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/sip/src/database/extras
+END
+import_db2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/sip/src/database/extras/import_db2.sql
+END
+import_hsqldb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/sip/src/database/extras/import_hsqldb.sql
+END
+import_postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/sip/src/database/extras/import_postgresql.sql
+END
+import_mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/sip/src/database/extras/import_mysql.sql
+END
+import_oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/sip/src/database/extras/import_oracle.sql
+END
+import_sqlserver.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/sip/src/database/extras/import_sqlserver.sql
+END

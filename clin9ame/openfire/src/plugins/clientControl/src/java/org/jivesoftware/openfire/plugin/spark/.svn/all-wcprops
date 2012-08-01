@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/clientControl/src/java/org/jivesoftware/openfire/plugin/spark
+END
+BookmarkManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/!svn/ver/11440/openfire/trunk/src/plugins/clientControl/src/java/org/jivesoftware/openfire/plugin/spark/BookmarkManager.java
+END
+BookmarkInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/repos/!svn/ver/11440/openfire/trunk/src/plugins/clientControl/src/java/org/jivesoftware/openfire/plugin/spark/BookmarkInterceptor.java
+END
+Bookmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/repos/!svn/ver/11440/openfire/trunk/src/plugins/clientControl/src/java/org/jivesoftware/openfire/plugin/spark/Bookmark.java
+END
+TaskEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/clientControl/src/java/org/jivesoftware/openfire/plugin/spark/TaskEngine.java
+END
+SparkManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/clientControl/src/java/org/jivesoftware/openfire/plugin/spark/SparkManager.java
+END
+SparkUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/repos/!svn/ver/11440/openfire/trunk/src/plugins/clientControl/src/java/org/jivesoftware/openfire/plugin/spark/SparkUtil.java
+END

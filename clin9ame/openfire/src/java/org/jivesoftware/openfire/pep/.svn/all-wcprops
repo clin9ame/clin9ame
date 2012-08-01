@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/13034/openfire/trunk/src/java/org/jivesoftware/openfire/pep
+END
+PEPServiceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/11498/openfire/trunk/src/java/org/jivesoftware/openfire/pep/PEPServiceManager.java
+END
+PEPService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/13034/openfire/trunk/src/java/org/jivesoftware/openfire/pep/PEPService.java
+END
+IQPEPOwnerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/pep/IQPEPOwnerHandler.java
+END
+IQPEPHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/12531/openfire/trunk/src/java/org/jivesoftware/openfire/pep/IQPEPHandler.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/9157/openfire/trunk/src/java/org/jivesoftware/openfire/pep/package.html
+END

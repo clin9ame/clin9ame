@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/13010/openfire/trunk/src/plugins/search/src/i18n
+END
+search_i18n.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/12382/openfire/trunk/src/plugins/search/src/i18n/search_i18n.properties
+END
+search_i18n_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/11086/openfire/trunk/src/plugins/search/src/i18n/search_i18n_pt_BR.properties
+END
+search_i18n_lt.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/13010/openfire/trunk/src/plugins/search/src/i18n/search_i18n_lt.properties
+END

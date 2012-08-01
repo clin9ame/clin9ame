@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/component/browser
+END
+EmbeddedBrowserViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/component/browser/EmbeddedBrowserViewer.java
+END
+BrowserViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/component/browser/BrowserViewer.java
+END
+BrowserListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/component/browser/BrowserListener.java
+END
+BrowserFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/component/browser/BrowserFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/4456/spark/trunk/src/java/org/jivesoftware/spark/component/browser/package.html
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/11683/openfire/trunk/src/java/org/jivesoftware/openfire/filetransfer/proxy
+END
+FileTransferProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/filetransfer/proxy/FileTransferProxy.java
+END
+ProxyTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/filetransfer/proxy/ProxyTransfer.java
+END
+DefaultProxyTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/filetransfer/proxy/DefaultProxyTransfer.java
+END
+ProxyConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/!svn/ver/11683/openfire/trunk/src/java/org/jivesoftware/openfire/filetransfer/proxy/ProxyConnectionManager.java
+END
+ProxyOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/filetransfer/proxy/ProxyOutputStream.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/12359/openfire/trunk/src/plugins/packetFilter
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/!svn/ver/9791/openfire/trunk/src/plugins/packetFilter/readme.html
+END
+changelog.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/12342/openfire/trunk/src/plugins/packetFilter/changelog.html
+END
+logo_small.gif
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/10208/openfire/trunk/src/plugins/packetFilter/logo_small.gif
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/!svn/ver/12359/openfire/trunk/src/plugins/packetFilter/plugin.xml
+END
+logo_large.gif
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/10208/openfire/trunk/src/plugins/packetFilter/logo_large.gif
+END

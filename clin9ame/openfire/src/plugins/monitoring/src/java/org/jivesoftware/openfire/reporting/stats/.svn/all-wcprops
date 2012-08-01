@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/11609/openfire/trunk/src/plugins/monitoring/src/java/org/jivesoftware/openfire/reporting/stats
+END
+RrdSqlBackend.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/monitoring/src/java/org/jivesoftware/openfire/reporting/stats/RrdSqlBackend.java
+END
+StatisticsModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/monitoring/src/java/org/jivesoftware/openfire/reporting/stats/StatisticsModule.java
+END
+StatsViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/!svn/ver/11609/openfire/trunk/src/plugins/monitoring/src/java/org/jivesoftware/openfire/reporting/stats/StatsViewer.java
+END
+StatDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/monitoring/src/java/org/jivesoftware/openfire/reporting/stats/StatDefinition.java
+END
+StatsEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/monitoring/src/java/org/jivesoftware/openfire/reporting/stats/StatsEngine.java
+END
+DefaultStatsViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/repos/!svn/ver/11438/openfire/trunk/src/plugins/monitoring/src/java/org/jivesoftware/openfire/reporting/stats/DefaultStatsViewer.java
+END
+RrdSqlBackendFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/monitoring/src/java/org/jivesoftware/openfire/reporting/stats/RrdSqlBackendFactory.java
+END
+GetStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repos/!svn/ver/11438/openfire/trunk/src/plugins/monitoring/src/java/org/jivesoftware/openfire/reporting/stats/GetStatistics.java
+END
+MockStatsViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/monitoring/src/java/org/jivesoftware/openfire/reporting/stats/MockStatsViewer.java
+END
+StatsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/!svn/ver/11438/openfire/trunk/src/plugins/monitoring/src/java/org/jivesoftware/openfire/reporting/stats/StatsAction.java
+END

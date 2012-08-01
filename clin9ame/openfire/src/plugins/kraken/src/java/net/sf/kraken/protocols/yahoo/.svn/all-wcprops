@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/yahoo
+END
+YahooSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/yahoo/YahooSession.java
+END
+YahooListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/yahoo/YahooListener.java
+END
+YahooBuddy.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/yahoo/YahooBuddy.java
+END
+YahooTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/yahoo/YahooTransport.java
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/13036/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub
+END
+PubSubPersistenceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/13036/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/PubSubPersistenceManager.java
+END
+CollectionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/CollectionNode.java
+END
+PubSubService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/13034/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/PubSubService.java
+END
+DefaultNodeConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/DefaultNodeConfiguration.java
+END
+NotAcceptableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/NotAcceptableException.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/13034/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/Node.java
+END
+PubSubEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/13034/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/PubSubEngine.java
+END
+PubSubModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/13034/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/PubSubModule.java
+END
+NodeAffiliate.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/NodeAffiliate.java
+END
+NodeSubscription.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/13034/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/NodeSubscription.java
+END
+PendingSubscriptionsCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/PendingSubscriptionsCommand.java
+END
+LeafNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/13034/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/LeafNode.java
+END
+PublishedItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/PublishedItem.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/7872/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/package.html
+END

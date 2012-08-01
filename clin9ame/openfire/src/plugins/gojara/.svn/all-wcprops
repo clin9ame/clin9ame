@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/repos/!svn/ver/13037/openfire/trunk/src/plugins/gojara
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/!svn/ver/12951/openfire/trunk/src/plugins/gojara/readme.html
+END
+changelog.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/12997/openfire/trunk/src/plugins/gojara/changelog.html
+END
+logo_small.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/13037/openfire/trunk/src/plugins/gojara/logo_small.png
+END
+logo_large.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/13037/openfire/trunk/src/plugins/gojara/logo_large.png
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/13037/openfire/trunk/src/plugins/gojara/plugin.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/xmldebugger/src/java/org/jivesoftware/openfire/plugin
+END
+DebuggerPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/xmldebugger/src/java/org/jivesoftware/openfire/plugin/DebuggerPlugin.java
+END
+InterpretedXMLPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/xmldebugger/src/java/org/jivesoftware/openfire/plugin/InterpretedXMLPrinter.java
+END
+RawPrintFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/xmldebugger/src/java/org/jivesoftware/openfire/plugin/RawPrintFilter.java
+END

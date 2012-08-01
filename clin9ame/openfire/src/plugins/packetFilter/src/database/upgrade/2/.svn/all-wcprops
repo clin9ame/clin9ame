@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/packetFilter/src/database/upgrade/2
+END
+packetfilter_mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/packetFilter/src/database/upgrade/2/packetfilter_mysql.sql
+END
+packetfilter_sqlserver.sql
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/packetFilter/src/database/upgrade/2/packetfilter_sqlserver.sql
+END
+packetfilter_hsqldb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/packetFilter/src/database/upgrade/2/packetfilter_hsqldb.sql
+END
+packetfilter_postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/packetFilter/src/database/upgrade/2/packetfilter_postgresql.sql
+END

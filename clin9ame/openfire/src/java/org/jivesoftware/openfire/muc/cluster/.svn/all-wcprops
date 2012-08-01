@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/12978/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster
+END
+DestroyRoomRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/12978/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster/DestroyRoomRequest.java
+END
+RoomRemovedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster/RoomRemovedEvent.java
+END
+OccupantAddedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster/OccupantAddedEvent.java
+END
+BroadcastPresenceRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster/BroadcastPresenceRequest.java
+END
+MUCServicePropertyClusterEventTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster/MUCServicePropertyClusterEventTask.java
+END
+MUCRoomTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster/MUCRoomTask.java
+END
+SeniorMemberServicesRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster/SeniorMemberServicesRequest.java
+END
+UpdatePresence.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster/UpdatePresence.java
+END
+ServiceUpdatedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster/ServiceUpdatedEvent.java
+END
+GetNewMemberRoomsRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster/GetNewMemberRoomsRequest.java
+END
+ServiceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster/ServiceInfo.java
+END
+RoomAvailableEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster/RoomAvailableEvent.java
+END
+UpdateOccupant.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster/UpdateOccupant.java
+END
+BroadcastMessageRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster/BroadcastMessageRequest.java
+END
+AddMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/12978/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster/AddMember.java
+END
+ServiceAddedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster/ServiceAddedEvent.java
+END
+ServiceRemovedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster/ServiceRemovedEvent.java
+END
+RoomUpdatedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster/RoomUpdatedEvent.java
+END
+UpdateHistoryStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster/UpdateHistoryStrategy.java
+END
+RoomInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster/RoomInfo.java
+END
+UpdateOccupantRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster/UpdateOccupantRequest.java
+END
+QueuedTasksManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster/QueuedTasksManager.java
+END
+OccupantLeftEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster/OccupantLeftEvent.java
+END
+ChangeNickname.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster/ChangeNickname.java
+END
+GetNumberConnectedUsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/muc/cluster/GetNumberConnectedUsers.java
+END

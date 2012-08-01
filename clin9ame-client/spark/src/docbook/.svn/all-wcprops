@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/repos/!svn/ver/11903/spark/trunk/src/docbook
+END
+user.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/repos/!svn/ver/11758/spark/trunk/src/docbook/user.sgml
+END
+installation-izpack.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/11903/spark/trunk/src/docbook/installation-izpack.sgml
+END
+developer-plugin.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/!svn/ver/11758/spark/trunk/src/docbook/developer-plugin.sgml
+END
+installation-debian.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/11889/spark/trunk/src/docbook/installation-debian.sgml
+END
+installation.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/!svn/ver/11903/spark/trunk/src/docbook/installation.sgml
+END
+developer-patch.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/11758/spark/trunk/src/docbook/developer-patch.sgml
+END
+developer-source.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/!svn/ver/11889/spark/trunk/src/docbook/developer-source.sgml
+END
+developer.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/11758/spark/trunk/src/docbook/developer.sgml
+END
+developer-branding.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/!svn/ver/11758/spark/trunk/src/docbook/developer-branding.sgml
+END
+book.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/repos/!svn/ver/11889/spark/trunk/src/docbook/book.sgml
+END

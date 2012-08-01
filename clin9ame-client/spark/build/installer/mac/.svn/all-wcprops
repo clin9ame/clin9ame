@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/repos/!svn/ver/12319/spark/trunk/build/installer/mac
+END
+dmg_spark.scpt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/12318/spark/trunk/build/installer/mac/dmg_spark.scpt
+END
+tar.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/12319/spark/trunk/build/installer/mac/tar.sh
+END
+dmg_spark.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/!svn/ver/12318/spark/trunk/build/installer/mac/dmg_spark.txt
+END

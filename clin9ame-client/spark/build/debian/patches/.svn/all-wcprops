@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/repos/!svn/ver/11970/spark/trunk/build/debian/patches
+END
+01_spark_home_dir.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/11970/spark/trunk/build/debian/patches/01_spark_home_dir.patch
+END

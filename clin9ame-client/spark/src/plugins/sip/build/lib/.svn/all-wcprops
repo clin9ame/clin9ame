@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/!svn/ver/11041/spark/trunk/src/plugins/sip/build/lib
+END
+jain-sdp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/!svn/ver/11038/spark/trunk/src/plugins/sip/build/lib/jain-sdp.jar
+END
+version.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/11041/spark/trunk/src/plugins/sip/build/lib/version.txt
+END
+jain-sip-sdp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/11038/spark/trunk/src/plugins/sip/build/lib/jain-sip-sdp.jar
+END
+jain-sip-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/11038/spark/trunk/src/plugins/sip/build/lib/jain-sip-api.jar
+END
+jain-sip-ri.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/11038/spark/trunk/src/plugins/sip/build/lib/jain-sip-ri.jar
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/repos/!svn/ver/13102/spark/trunk/src/resources
+END
+jniwrap.lic
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/!svn/ver/6461/spark/trunk/src/resources/jniwrap.lic
+END
+JavaApplicationStub
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/7038/spark/trunk/src/resources/JavaApplicationStub
+END
+jniwrap.dll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/!svn/ver/6461/spark/trunk/src/resources/jniwrap.dll
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/repos/!svn/ver/4456/spark/trunk/src/resources/Info.plist
+END
+startup.bat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/!svn/ver/11332/spark/trunk/src/resources/startup.bat
+END
+systeminfo.dll
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/8468/spark/trunk/src/resources/systeminfo.dll
+END
+startup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/!svn/ver/11880/spark/trunk/src/resources/startup.sh
+END
+PkgInfo
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/repos/!svn/ver/4456/spark/trunk/src/resources/PkgInfo
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/!svn/ver/11575/openfire/trunk/src/plugins/monitoring/lib
+END
+lucene.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/lib/lucene.jar
+END
+dwr.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/11575/openfire/trunk/src/plugins/monitoring/lib/dwr.jar
+END
+itext.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/lib/itext.jar
+END
+jfreechart.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/lib/jfreechart.jar
+END
+picocontainer.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/lib/picocontainer.jar
+END
+jcommon.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/lib/jcommon.jar
+END
+jrobin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/10310/openfire/trunk/src/plugins/monitoring/lib/jrobin.jar
+END

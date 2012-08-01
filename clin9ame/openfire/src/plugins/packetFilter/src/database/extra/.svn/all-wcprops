@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/packetFilter/src/database/extra
+END
+packetfilter_oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/packetFilter/src/database/extra/packetfilter_oracle.sql
+END

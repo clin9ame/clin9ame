@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/media/event
+END
+MediaEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/media/event/MediaEvent.java
+END
+MediaListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/media/event/MediaListener.java
+END
+MediaErrorEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/media/event/MediaErrorEvent.java
+END

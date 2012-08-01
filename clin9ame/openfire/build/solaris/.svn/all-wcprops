@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/repos/!svn/ver/10532/openfire/trunk/build/solaris
+END
+checkinstall
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/!svn/ver/10532/openfire/trunk/build/solaris/checkinstall
+END
+preremove
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/!svn/ver/9696/openfire/trunk/build/solaris/preremove
+END
+openfire.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/!svn/ver/9650/openfire/trunk/build/solaris/openfire.xml
+END
+postinstall
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/9733/openfire/trunk/build/solaris/postinstall
+END

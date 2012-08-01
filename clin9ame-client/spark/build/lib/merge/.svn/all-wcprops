@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/repos/!svn/ver/11010/spark/trunk/build/lib/merge
+END
+updater.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/4456/spark/trunk/build/lib/merge/updater.jar
+END
+jaxen.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/!svn/ver/11010/spark/trunk/build/lib/merge/jaxen.jar
+END
+commons-codec.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/4456/spark/trunk/build/lib/merge/commons-codec.jar
+END
+commons-httpclient.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/4456/spark/trunk/build/lib/merge/commons-httpclient.jar
+END
+looks.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/!svn/ver/4456/spark/trunk/build/lib/merge/looks.jar
+END
+Wrapper.dll
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/4456/spark/trunk/build/lib/merge/Wrapper.dll
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/4456/spark/trunk/build/lib/merge/commons-logging.jar
+END

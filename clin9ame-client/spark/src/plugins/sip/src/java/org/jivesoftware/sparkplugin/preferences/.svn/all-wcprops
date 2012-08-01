@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/preferences
+END
+AudioPreferenceDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/preferences/AudioPreferenceDialog.java
+END
+SipPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/preferences/SipPreference.java
+END
+SipPreferencePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/preferences/SipPreferencePanel.java
+END
+SipCodecsPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/repos/!svn/ver/12242/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/preferences/SipCodecsPreference.java
+END
+SipCodecs.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/12242/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/preferences/SipCodecs.java
+END
+SipPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/preferences/SipPreferences.java
+END

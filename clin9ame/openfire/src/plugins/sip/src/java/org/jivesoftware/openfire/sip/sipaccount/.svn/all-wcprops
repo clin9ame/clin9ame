@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/11448/openfire/trunk/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/sipaccount
+END
+SipRegisterStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/sipaccount/SipRegisterStatus.java
+END
+SipAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/sipaccount/SipAccount.java
+END
+SipAccountDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/repos/!svn/ver/11448/openfire/trunk/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/sipaccount/SipAccountDAO.java
+END
+SipComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/!svn/ver/11448/openfire/trunk/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/sipaccount/SipComponent.java
+END

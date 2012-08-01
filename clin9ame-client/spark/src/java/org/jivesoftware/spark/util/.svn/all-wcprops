@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/13063/spark/trunk/src/java/org/jivesoftware/spark/util
+END
+ImageCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/util/ImageCombiner.java
+END
+BrowserLauncher.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/12893/spark/trunk/src/java/org/jivesoftware/spark/util/BrowserLauncher.java
+END
+URLFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/util/URLFileSystem.java
+END
+ResourceUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/util/ResourceUtils.java
+END
+SwingTimerTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/util/SwingTimerTask.java
+END
+ColorUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/util/ColorUtil.java
+END
+ByteFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/util/ByteFormat.java
+END
+DummySSLSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/util/DummySSLSocketFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/4456/spark/trunk/src/java/org/jivesoftware/spark/util/package.html
+END
+SwingWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/util/SwingWorker.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/12492/spark/trunk/src/java/org/jivesoftware/spark/util/Base64.java
+END
+Encryptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/util/Encryptor.java
+END
+ColorPick.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/12419/spark/trunk/src/java/org/jivesoftware/spark/util/ColorPick.java
+END
+WinRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/util/WinRegistry.java
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/12386/spark/trunk/src/java/org/jivesoftware/spark/util/StringUtils.java
+END
+TaskEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/util/TaskEngine.java
+END
+UIComponentRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/12591/spark/trunk/src/java/org/jivesoftware/spark/util/UIComponentRegistry.java
+END
+WindowsFileSystemView.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/util/WindowsFileSystemView.java
+END
+ModelUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/util/ModelUtil.java
+END
+GraphicUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/12581/spark/trunk/src/java/org/jivesoftware/spark/util/GraphicUtils.java
+END

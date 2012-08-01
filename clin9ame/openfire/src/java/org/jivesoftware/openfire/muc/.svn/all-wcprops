@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/13065/openfire/trunk/src/java/org/jivesoftware/openfire/muc
+END
+MUCRoomHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/12978/openfire/trunk/src/java/org/jivesoftware/openfire/muc/MUCRoomHistory.java
+END
+MUCRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/muc/MUCRole.java
+END
+MultiUserChatService.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12978/openfire/trunk/src/java/org/jivesoftware/openfire/muc/MultiUserChatService.java
+END
+HistoryRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/12978/openfire/trunk/src/java/org/jivesoftware/openfire/muc/HistoryRequest.java
+END
+ForbiddenException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/muc/ForbiddenException.java
+END
+RoomLockedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/muc/RoomLockedException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/7872/openfire/trunk/src/java/org/jivesoftware/openfire/muc/package.html
+END
+ConflictException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/muc/ConflictException.java
+END
+MUCRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/12978/openfire/trunk/src/java/org/jivesoftware/openfire/muc/MUCRoom.java
+END
+MUCEventDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12978/openfire/trunk/src/java/org/jivesoftware/openfire/muc/MUCEventDelegate.java
+END
+NotAcceptableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/muc/NotAcceptableException.java
+END
+MUCUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/12978/openfire/trunk/src/java/org/jivesoftware/openfire/muc/MUCUser.java
+END
+ServiceUnavailableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/muc/ServiceUnavailableException.java
+END
+HistoryStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/12978/openfire/trunk/src/java/org/jivesoftware/openfire/muc/HistoryStrategy.java
+END
+MultiUserChatManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/11691/openfire/trunk/src/java/org/jivesoftware/openfire/muc/MultiUserChatManager.java
+END
+NotAllowedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/muc/NotAllowedException.java
+END
+RegistrationRequiredException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/muc/RegistrationRequiredException.java
+END
+CannotBeInvitedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/muc/CannotBeInvitedException.java
+END
+MUCEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/muc/MUCEventListener.java
+END
+MUCEventDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/muc/MUCEventDispatcher.java
+END

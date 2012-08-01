@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/repos/!svn/ver/13039/openfire/trunk/build/lib/merge
+END
+jetty-io.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/!svn/ver/12943/openfire/trunk/build/lib/merge/jetty-io.jar
+END
+jetty-security.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/12943/openfire/trunk/build/lib/merge/jetty-security.jar
+END
+mina-filter-ssl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/!svn/ver/10915/openfire/trunk/build/lib/merge/mina-filter-ssl.jar
+END
+mina-filter-compression.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/10915/openfire/trunk/build/lib/merge/mina-filter-compression.jar
+END
+jzlib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/9370/openfire/trunk/build/lib/merge/jzlib.jar
+END
+jetty-util.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/!svn/ver/12943/openfire/trunk/build/lib/merge/jetty-util.jar
+END
+jmdns.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/!svn/ver/13039/openfire/trunk/build/lib/merge/jmdns.jar
+END
+jstl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/merge/jstl.jar
+END
+jetty-http.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/!svn/ver/12943/openfire/trunk/build/lib/merge/jetty-http.jar
+END
+dom4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/merge/dom4j.jar
+END
+log4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/!svn/ver/12943/openfire/trunk/build/lib/merge/log4j.jar
+END
+sitemesh.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/merge/sitemesh.jar
+END
+dbutil.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/merge/dbutil.jar
+END
+commons-codec.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/merge/commons-codec.jar
+END
+jdom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/9194/openfire/trunk/build/lib/merge/jdom.jar
+END
+commons-lang.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/9103/openfire/trunk/build/lib/merge/commons-lang.jar
+END
+xpp3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/merge/xpp3.jar
+END
+jetty-xml.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/12943/openfire/trunk/build/lib/merge/jetty-xml.jar
+END
+stringprep.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/!svn/ver/11449/openfire/trunk/build/lib/merge/stringprep.jar
+END
+standard.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/merge/standard.jar
+END
+rome.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/9194/openfire/trunk/build/lib/merge/rome.jar
+END
+jetty-server.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/!svn/ver/12943/openfire/trunk/build/lib/merge/jetty-server.jar
+END
+jaxen.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/merge/jaxen.jar
+END
+jetty-continuation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/12943/openfire/trunk/build/lib/merge/jetty-continuation.jar
+END
+mina-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/10915/openfire/trunk/build/lib/merge/mina-core.jar
+END
+jetty-webapp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/!svn/ver/12943/openfire/trunk/build/lib/merge/jetty-webapp.jar
+END
+rome-fetcher.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/9194/openfire/trunk/build/lib/merge/rome-fetcher.jar
+END
+jetty-servlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/12943/openfire/trunk/build/lib/merge/jetty-servlet.jar
+END
+jetty-websocket.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/!svn/ver/12943/openfire/trunk/build/lib/merge/jetty-websocket.jar
+END
+concurrentlinkedhashmap-lru-1.0_jdk5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/11840/openfire/trunk/build/lib/merge/concurrentlinkedhashmap-lru-1.0_jdk5.jar
+END
+shaj.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/merge/shaj.jar
+END
+tinder.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/!svn/ver/11997/openfire/trunk/build/lib/merge/tinder.jar
+END
+commons-httpclient.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/10491/openfire/trunk/build/lib/merge/commons-httpclient.jar
+END
+slf4j-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/12943/openfire/trunk/build/lib/merge/slf4j-api.jar
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/merge/commons-logging.jar
+END
+libidn.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/!svn/ver/11436/openfire/trunk/build/lib/merge/libidn.jar
+END
+proxool.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/!svn/ver/9864/openfire/trunk/build/lib/merge/proxool.jar
+END
+jsp-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/merge/jsp-api.jar
+END

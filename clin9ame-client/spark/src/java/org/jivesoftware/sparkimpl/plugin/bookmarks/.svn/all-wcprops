@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/13104/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/bookmarks
+END
+BookmarkUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/bookmarks/BookmarkUI.java
+END
+BookmarkItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/bookmarks/BookmarkItem.java
+END
+BookmarkPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/13104/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/bookmarks/BookmarkPlugin.java
+END

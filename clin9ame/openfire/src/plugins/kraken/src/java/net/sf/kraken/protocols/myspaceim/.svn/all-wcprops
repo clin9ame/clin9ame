@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/myspaceim
+END
+MySpaceIMBuddy.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/myspaceim/MySpaceIMBuddy.java
+END
+MySpaceIMTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/myspaceim/MySpaceIMTransport.java
+END
+MySpaceIMSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/myspaceim/MySpaceIMSession.java
+END
+MySpaceIMListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/myspaceim/MySpaceIMListener.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/!svn/ver/12978/openfire/trunk/src/java/org/jivesoftware/util/cache
+END
+CacheSizes.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/12942/openfire/trunk/src/java/org/jivesoftware/util/cache/CacheSizes.java
+END
+Cache.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/util/cache/Cache.java
+END
+DummyExternalizableUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/12978/openfire/trunk/src/java/org/jivesoftware/util/cache/DummyExternalizableUtil.java
+END
+CacheWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/util/cache/CacheWrapper.java
+END
+ClusterTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/util/cache/ClusterTask.java
+END
+DefaultLocalCacheStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/util/cache/DefaultLocalCacheStrategy.java
+END
+Cacheable.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/12942/openfire/trunk/src/java/org/jivesoftware/util/cache/Cacheable.java
+END
+ExternalizableUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12978/openfire/trunk/src/java/org/jivesoftware/util/cache/ExternalizableUtil.java
+END
+DefaultCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/12942/openfire/trunk/src/java/org/jivesoftware/util/cache/DefaultCache.java
+END
+CannotCalculateSizeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/12942/openfire/trunk/src/java/org/jivesoftware/util/cache/CannotCalculateSizeException.java
+END
+ExternalizableUtilStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/12978/openfire/trunk/src/java/org/jivesoftware/util/cache/ExternalizableUtilStrategy.java
+END
+CacheFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/util/cache/CacheFactory.java
+END
+CacheFactoryStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/util/cache/CacheFactoryStrategy.java
+END

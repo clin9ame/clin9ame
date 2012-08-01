@@ -1,0 +1,539 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/repos/!svn/ver/13038/openfire/trunk/src/web
+END
+ldap-server.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/!svn/ver/7872/openfire/trunk/src/web/ldap-server.jsp
+END
+server-db-stats.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/server-db-stats.jsp
+END
+system-cache.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/system-cache.jsp
+END
+clearspace-admin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/clearspace-admin.jsp
+END
+muc-room-summary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/muc-room-summary.jsp
+END
+user-roster-delete.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/user-roster-delete.jsp
+END
+client-connections-settings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/client-connections-settings.jsp
+END
+user-lockout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/user-lockout.jsp
+END
+ssl-settings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/ssl-settings.jsp
+END
+external-components-settings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/external-components-settings.jsp
+END
+muc-room-affiliations.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/12979/openfire/trunk/src/web/muc-room-affiliations.jsp
+END
+muc-default-settings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/muc-default-settings.jsp
+END
+ssl-certificates.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/!svn/ver/12905/openfire/trunk/src/web/ssl-certificates.jsp
+END
+muc-service-edit-form.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/muc-service-edit-form.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/repos/!svn/ver/13023/openfire/trunk/src/web/index.jsp
+END
+user-properties.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/user-properties.jsp
+END
+chatroom-history-settings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/chatroom-history-settings.jsp
+END
+system-emailtest.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/system-emailtest.jsp
+END
+component-session-summary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/component-session-summary.jsp
+END
+session-summary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/session-summary.jsp
+END
+user-create.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/user-create.jsp
+END
+clearspace-status.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/clearspace-status.jsp
+END
+offline-messages.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/offline-messages.jsp
+END
+server-restart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/!svn/ver/9934/openfire/trunk/src/web/server-restart.jsp
+END
+import-certificate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/9934/openfire/trunk/src/web/import-certificate.jsp
+END
+ldap-user.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/repos/!svn/ver/7872/openfire/trunk/src/web/ldap-user.jsp
+END
+group-create.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/group-create.jsp
+END
+profile-settings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/profile-settings.jsp
+END
+media-proxy.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/media-proxy.jsp
+END
+muc-room-create.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/muc-room-create.jsp
+END
+user-message.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/user-message.jsp
+END
+system-clustering.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/system-clustering.jsp
+END
+user-edit-form.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/user-edit-form.jsp
+END
+user-roster-view.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/user-roster-view.jsp
+END
+server-props.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/server-props.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/repos/!svn/ver/11513/openfire/trunk/src/web/login.jsp
+END
+system-email.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/system-email.jsp
+END
+security-audit-viewer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/security-audit-viewer.jsp
+END
+ldap-group.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/!svn/ver/7872/openfire/trunk/src/web/ldap-group.jsp
+END
+private-data-settings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/private-data-settings.jsp
+END
+file-transfer-proxy.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/file-transfer-proxy.jsp
+END
+user-roster-add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/12961/openfire/trunk/src/web/user-roster-add.jsp
+END
+muc-history-settings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/muc-history-settings.jsp
+END
+log.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/log.jsp
+END
+user-search.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/!svn/ver/9934/openfire/trunk/src/web/user-search.jsp
+END
+muc-service-delete.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/muc-service-delete.jsp
+END
+muc-room-edit-form.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/!svn/ver/12986/openfire/trunk/src/web/muc-room-edit-form.jsp
+END
+clearspace-integration.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/10667/openfire/trunk/src/web/clearspace-integration.jsp
+END
+error-serverdown.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/7872/openfire/trunk/src/web/error-serverdown.jsp
+END
+group-summary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/group-summary.jsp
+END
+connection-managers-settings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/connection-managers-settings.jsp
+END
+server-db.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/server-db.jsp
+END
+user-roster.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/user-roster.jsp
+END
+manage-updates.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/manage-updates.jsp
+END
+muc-sysadmins.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/!svn/ver/12979/openfire/trunk/src/web/muc-sysadmins.jsp
+END
+compression-settings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/compression-settings.jsp
+END
+server-session-row.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/!svn/ver/9934/openfire/trunk/src/web/server-session-row.jspf
+END
+server-locale.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/server-locale.jsp
+END
+logviewer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/logviewer.jsp
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/repos/!svn/ver/7872/openfire/trunk/src/web/favicon.ico
+END
+user-tabs.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/repos/!svn/ver/9934/openfire/trunk/src/web/user-tabs.jsp
+END
+server-session-details.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/server-session-details.jsp
+END
+muc-create-permission.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/12990/openfire/trunk/src/web/muc-create-permission.jsp
+END
+muc-service-summary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/muc-service-summary.jsp
+END
+server2server-settings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/server2server-settings.jsp
+END
+user-delete.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/user-delete.jsp
+END
+user-password.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/user-password.jsp
+END
+group-edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/group-edit.jsp
+END
+ssl-signing-request.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/!svn/ver/9934/openfire/trunk/src/web/ssl-signing-request.jsp
+END
+plugin-admin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/plugin-admin.jsp
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/repos/!svn/ver/10128/openfire/trunk/src/web/error.jsp
+END
+http-bind.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/http-bind.jsp
+END
+muc-room-occupants.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/muc-room-occupants.jsp
+END
+group-delete.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/group-delete.jsp
+END
+muc-room-delete.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/12989/openfire/trunk/src/web/muc-room-delete.jsp
+END
+session-row.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/9934/openfire/trunk/src/web/session-row.jspf
+END
+available-plugins.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/available-plugins.jsp
+END
+server-properties.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/server-properties.jsp
+END
+audit-policy.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/audit-policy.jsp
+END
+component-session-details.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/component-session-details.jsp
+END
+session-details.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/session-details.jsp
+END
+muc-tasks.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/muc-tasks.jsp
+END
+user-summary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/11767/openfire/trunk/src/web/user-summary.jsp
+END
+reg-settings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/reg-settings.jsp
+END
+user-roster-edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/user-roster-edit.jsp
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/repos/!svn/ver/7872/openfire/trunk/src/web/index.html
+END
+server-session-summary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/server-session-summary.jsp
+END
+session-conflict.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/session-conflict.jsp
+END
+muc-service-create.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/!svn/ver/11592/openfire/trunk/src/web/muc-service-create.jsp
+END

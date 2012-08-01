@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repos/!svn/ver/12582/spark/trunk/src/plugins/translator
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/!svn/ver/9710/spark/trunk/src/plugins/translator/readme.html
+END
+Translator.ipr
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/5442/spark/trunk/src/plugins/translator/Translator.ipr
+END
+Translator.iml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/9710/spark/trunk/src/plugins/translator/Translator.iml
+END
+changelog.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/12139/spark/trunk/src/plugins/translator/changelog.html
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/!svn/ver/12401/spark/trunk/src/plugins/translator/plugin.xml
+END

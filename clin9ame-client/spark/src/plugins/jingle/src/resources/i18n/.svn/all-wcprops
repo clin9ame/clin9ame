@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/12136/spark/trunk/src/plugins/jingle/src/resources/i18n
+END
+jingle_i18n_lt.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/11342/spark/trunk/src/plugins/jingle/src/resources/i18n/jingle_i18n_lt.properties
+END
+jingle_i18n.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/11172/spark/trunk/src/plugins/jingle/src/resources/i18n/jingle_i18n.properties
+END
+jingle_i18n_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/11353/spark/trunk/src/plugins/jingle/src/resources/i18n/jingle_i18n_zh_CN.properties
+END
+jingle_i18n_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/11172/spark/trunk/src/plugins/jingle/src/resources/i18n/jingle_i18n_de.properties
+END
+jingle_i18n_pl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12136/spark/trunk/src/plugins/jingle/src/resources/i18n/jingle_i18n_pl.properties
+END

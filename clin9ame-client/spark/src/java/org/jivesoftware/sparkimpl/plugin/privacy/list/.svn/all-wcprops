@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/12435/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/privacy/list
+END
+PrivacyPresenceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/!svn/ver/12414/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/privacy/list/PrivacyPresenceHandler.java
+END
+SparkPrivacyListListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/!svn/ver/12396/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/privacy/list/SparkPrivacyListListener.java
+END
+SparkPrivacyItemListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/!svn/ver/12396/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/privacy/list/SparkPrivacyItemListener.java
+END
+SparkPrivacyList.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/12435/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/privacy/list/SparkPrivacyList.java
+END

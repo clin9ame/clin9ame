@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/11448/openfire/trunk/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/log
+END
+LogComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/11448/openfire/trunk/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/log/LogComponent.java
+END
+LogListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/log/LogListener.java
+END
+LogListenerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/!svn/ver/11448/openfire/trunk/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/log/LogListenerImpl.java
+END

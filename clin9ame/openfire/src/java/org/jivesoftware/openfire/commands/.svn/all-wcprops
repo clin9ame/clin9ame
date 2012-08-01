@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands
+END
+AdHocCommandManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/commands/AdHocCommandManager.java
+END
+AdHocCommandHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/AdHocCommandHandler.java
+END
+AdHocCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/commands/AdHocCommand.java
+END
+SessionData.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/commands/SessionData.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/7872/openfire/trunk/src/java/org/jivesoftware/openfire/commands/package.html
+END

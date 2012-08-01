@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/12942/openfire/trunk/src/java/org/jivesoftware/openfire/privacy
+END
+PrivacyListEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/privacy/PrivacyListEventListener.java
+END
+PrivacyListManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/privacy/PrivacyListManager.java
+END
+PrivacyListProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/privacy/PrivacyListProvider.java
+END
+PrivacyList.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/12942/openfire/trunk/src/java/org/jivesoftware/openfire/privacy/PrivacyList.java
+END
+PrivacyItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/privacy/PrivacyItem.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/7872/openfire/trunk/src/java/org/jivesoftware/openfire/privacy/package.html
+END

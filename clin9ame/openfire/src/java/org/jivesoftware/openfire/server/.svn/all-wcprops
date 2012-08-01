@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/12837/openfire/trunk/src/java/org/jivesoftware/openfire/server
+END
+ServerDialback.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/12837/openfire/trunk/src/java/org/jivesoftware/openfire/server/ServerDialback.java
+END
+RemoteServerConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/server/RemoteServerConfiguration.java
+END
+RemoteServerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/11691/openfire/trunk/src/java/org/jivesoftware/openfire/server/RemoteServerManager.java
+END
+OutgoingServerSocketReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/server/OutgoingServerSocketReader.java
+END
+OutgoingSessionPromise.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/11686/openfire/trunk/src/java/org/jivesoftware/openfire/server/OutgoingSessionPromise.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/7872/openfire/trunk/src/java/org/jivesoftware/openfire/server/package.html
+END

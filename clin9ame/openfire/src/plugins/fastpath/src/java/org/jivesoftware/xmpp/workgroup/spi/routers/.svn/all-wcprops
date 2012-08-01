@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/spi/routers
+END
+MetaDataRouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/spi/routers/MetaDataRouter.java
+END
+MetaDataRouterBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/spi/routers/MetaDataRouterBeanInfo.java
+END
+DefaultRouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/spi/routers/DefaultRouter.java
+END
+WordMatchRouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/spi/routers/WordMatchRouter.java
+END
+WordMatchRouterBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/spi/routers/WordMatchRouterBeanInfo.java
+END

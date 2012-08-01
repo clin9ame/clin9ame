@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/lockout
+END
+DefaultLockOutProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/lockout/DefaultLockOutProvider.java
+END
+LockOutEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/lockout/LockOutEventListener.java
+END
+LockOutEventDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/lockout/LockOutEventDispatcher.java
+END
+LockOutFlag.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/lockout/LockOutFlag.java
+END
+LockOutManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/lockout/LockOutManager.java
+END
+LockOutProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/lockout/LockOutProvider.java
+END

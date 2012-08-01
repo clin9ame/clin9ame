@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/!svn/ver/7872/openfire/trunk/src/plugins/userImportExport/src/web
+END
+export-user-data.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/7872/openfire/trunk/src/plugins/userImportExport/src/web/export-user-data.jsp
+END
+import-export-selection.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/7872/openfire/trunk/src/plugins/userImportExport/src/web/import-export-selection.jsp
+END
+import-user-data.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/7872/openfire/trunk/src/plugins/userImportExport/src/web/import-user-data.jsp
+END
+export-file.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/7872/openfire/trunk/src/plugins/userImportExport/src/web/export-file.jsp
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/spi
+END
+BasicRequestFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/spi/BasicRequestFilter.java
+END
+ChatHistoryUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/spi/ChatHistoryUtils.java
+END
+BasicRequestFilterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/spi/BasicRequestFilterFactory.java
+END
+JiveLiveProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/spi/JiveLiveProperties.java
+END
+WorkgroupCompatibleClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/spi/WorkgroupCompatibleClient.java
+END

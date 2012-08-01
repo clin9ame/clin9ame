@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 85
+.classpath
+.project
+.settings
+Messenger.iws
+target
+macpkg
+Wildfire
+wildfire.dmg
+work
+
+END

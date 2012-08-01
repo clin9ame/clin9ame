@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/presence/src/java/org/jivesoftware/openfire/plugin/presence
+END
+XMLPresenceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/presence/src/java/org/jivesoftware/openfire/plugin/presence/XMLPresenceProvider.java
+END
+ImagePresenceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/presence/src/java/org/jivesoftware/openfire/plugin/presence/ImagePresenceProvider.java
+END
+TextPresenceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/presence/src/java/org/jivesoftware/openfire/plugin/presence/TextPresenceProvider.java
+END
+PresenceInfoProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/presence/src/java/org/jivesoftware/openfire/plugin/presence/PresenceInfoProvider.java
+END
+PresenceStatusServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/presence/src/java/org/jivesoftware/openfire/plugin/presence/PresenceStatusServlet.java
+END

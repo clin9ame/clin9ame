@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/12458/spark/trunk/src/plugins/roar/src/java/org/jivesoftware/spark/roar
+END
+RoarProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/12443/spark/trunk/src/plugins/roar/src/java/org/jivesoftware/spark/roar/RoarProperties.java
+END
+RoarPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/12411/spark/trunk/src/plugins/roar/src/java/org/jivesoftware/spark/roar/RoarPreference.java
+END
+Roar.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12364/spark/trunk/src/plugins/roar/src/java/org/jivesoftware/spark/roar/Roar.java
+END
+RoarMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/12458/spark/trunk/src/plugins/roar/src/java/org/jivesoftware/spark/roar/RoarMessageListener.java
+END
+RoarResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/12411/spark/trunk/src/plugins/roar/src/java/org/jivesoftware/spark/roar/RoarResources.java
+END

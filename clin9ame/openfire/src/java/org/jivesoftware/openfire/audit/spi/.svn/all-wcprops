@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/11685/openfire/trunk/src/java/org/jivesoftware/openfire/audit/spi
+END
+AuditManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/11685/openfire/trunk/src/java/org/jivesoftware/openfire/audit/spi/AuditManagerImpl.java
+END
+AuditorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/11677/openfire/trunk/src/java/org/jivesoftware/openfire/audit/spi/AuditorImpl.java
+END

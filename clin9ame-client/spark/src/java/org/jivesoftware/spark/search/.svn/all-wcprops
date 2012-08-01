@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/!svn/ver/12574/spark/trunk/src/java/org/jivesoftware/spark/search
+END
+SearchManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/12432/spark/trunk/src/java/org/jivesoftware/spark/search/SearchManager.java
+END
+SearchService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/12574/spark/trunk/src/java/org/jivesoftware/spark/search/SearchService.java
+END
+Searchable.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/search/Searchable.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/4456/spark/trunk/src/java/org/jivesoftware/spark/search/package.html
+END

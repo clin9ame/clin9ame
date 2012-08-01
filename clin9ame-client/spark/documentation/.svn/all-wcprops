@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/repos/!svn/ver/12555/spark/trunk/documentation
+END
+README.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/!svn/ver/12552/spark/trunk/documentation/README.html
+END
+builder.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/!svn/ver/4456/spark/trunk/documentation/builder.jar
+END
+sparkplug_compile.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/12394/spark/trunk/documentation/sparkplug_compile.html
+END
+LICENSE.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/12504/spark/trunk/documentation/LICENSE.html
+END
+sparkplug_dev_guide.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/!svn/ver/12394/spark/trunk/documentation/sparkplug_dev_guide.html
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repos/!svn/ver/4456/spark/trunk/documentation/style.css
+END
+changelog.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/!svn/ver/12555/spark/trunk/documentation/changelog.html
+END
+changes.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/!svn/ver/4456/spark/trunk/documentation/changes.xsl
+END
+sample_plugin_repository.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/12484/spark/trunk/documentation/sample_plugin_repository.xml
+END

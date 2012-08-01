@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/disco
+END
+IQDiscoInfoHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/disco/IQDiscoInfoHandler.java
+END
+DiscoFeaturesProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/disco/DiscoFeaturesProvider.java
+END
+IQDiscoItemsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/disco/IQDiscoItemsHandler.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/12583/spark/trunk/src/java/org/jivesoftware/spark/ui/themes
+END
+ColorSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/themes/ColorSettings.java
+END
+ThemePreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/themes/ThemePreference.java
+END
+ThemePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/12583/spark/trunk/src/java/org/jivesoftware/spark/ui/themes/ThemePanel.java
+END
+ColorSettingManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/themes/ColorSettingManager.java
+END
+MainThemePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/12581/spark/trunk/src/java/org/jivesoftware/spark/ui/themes/MainThemePanel.java
+END
+ColorPreferencePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12419/spark/trunk/src/java/org/jivesoftware/spark/ui/themes/ColorPreferencePanel.java
+END
+EmoticonPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/themes/EmoticonPanel.java
+END

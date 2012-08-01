@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/repos/!svn/ver/12020/openfire/trunk/src/plugins/fastpath
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/!svn/ver/10771/openfire/trunk/src/plugins/fastpath/readme.html
+END
+changelog.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/!svn/ver/11594/openfire/trunk/src/plugins/fastpath/changelog.html
+END
+logo_small.gif
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/logo_small.gif
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/11594/openfire/trunk/src/plugins/fastpath/plugin.xml
+END
+logo_large.gif
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/logo_large.gif
+END

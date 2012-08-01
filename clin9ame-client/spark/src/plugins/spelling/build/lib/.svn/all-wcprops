@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/12159/spark/trunk/src/plugins/spelling/build/lib
+END
+jmyspell-swing.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/12159/spark/trunk/src/plugins/spelling/build/lib/jmyspell-swing.jar
+END
+jmyspell-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/12159/spark/trunk/src/plugins/spelling/build/lib/jmyspell-core.jar
+END
+jmyspell-myspell-dictionary.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/12159/spark/trunk/src/plugins/spelling/build/lib/jmyspell-myspell-dictionary.jar
+END
+version.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/11753/spark/trunk/src/plugins/spelling/build/lib/version.txt
+END

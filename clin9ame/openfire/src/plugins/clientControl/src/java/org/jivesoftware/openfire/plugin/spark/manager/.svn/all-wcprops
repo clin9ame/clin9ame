@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/clientControl/src/java/org/jivesoftware/openfire/plugin/spark/manager
+END
+SparkVersionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/repos/!svn/ver/11440/openfire/trunk/src/plugins/clientControl/src/java/org/jivesoftware/openfire/plugin/spark/manager/SparkVersionManager.java
+END
+FileTransferFilterManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/clientControl/src/java/org/jivesoftware/openfire/plugin/spark/manager/FileTransferFilterManager.java
+END
+SparkDownloadServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/clientControl/src/java/org/jivesoftware/openfire/plugin/spark/manager/SparkDownloadServlet.java
+END

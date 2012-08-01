@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/repos/!svn/ver/13086/spark/trunk/build
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repos/!svn/ver/11759/spark/trunk/build/build.properties
+END
+built_target.bat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/repos/!svn/ver/4456/spark/trunk/build/built_target.bat
+END
+checkstyle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/repos/!svn/ver/12163/spark/trunk/build/checkstyle.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/repos/!svn/ver/12556/spark/trunk/build/build.xml
+END
+built_target.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/repos/!svn/ver/4456/spark/trunk/build/built_target.sh
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/repos/!svn/ver/12369/spark/trunk/build/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/repos/!svn/ver/12365/spark/trunk/build/debian/control
+END
+files
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/repos/!svn/ver/10524/spark/trunk/build/debian/files
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/repos/!svn/ver/10343/spark/trunk/build/debian/compat
+END
+postinst
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/repos/!svn/ver/10343/spark/trunk/build/debian/postinst
+END
+postrm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/repos/!svn/ver/10343/spark/trunk/build/debian/postrm
+END
+prerm
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/repos/!svn/ver/10343/spark/trunk/build/debian/prerm
+END
+spark-messenger.links
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/12365/spark/trunk/build/debian/spark-messenger.links
+END
+spark-messenger.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/!svn/ver/12365/spark/trunk/build/debian/spark-messenger.dirs
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repos/!svn/ver/12365/spark/trunk/build/debian/changelog
+END
+conffiles
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repos/!svn/ver/10343/spark/trunk/build/debian/conffiles
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repos/!svn/ver/10343/spark/trunk/build/debian/copyright
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/repos/!svn/ver/12369/spark/trunk/build/debian/rules
+END

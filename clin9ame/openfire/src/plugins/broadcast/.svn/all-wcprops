@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/!svn/ver/11681/openfire/trunk/src/plugins/broadcast
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/11681/openfire/trunk/src/plugins/broadcast/readme.html
+END
+changelog.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/!svn/ver/11681/openfire/trunk/src/plugins/broadcast/changelog.html
+END
+logo_small.gif
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/!svn/ver/7872/openfire/trunk/src/plugins/broadcast/logo_small.gif
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/!svn/ver/11681/openfire/trunk/src/plugins/broadcast/plugin.xml
+END
+logo_large.gif
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/!svn/ver/7872/openfire/trunk/src/plugins/broadcast/logo_large.gif
+END

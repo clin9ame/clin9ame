@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/src/java/com/jivesoftware/openfire/session
+END
+RemoteSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/src/java/com/jivesoftware/openfire/session/RemoteSession.java
+END
+RemoteOutgoingServerSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/src/java/com/jivesoftware/openfire/session/RemoteOutgoingServerSession.java
+END
+ClientSessionTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/src/java/com/jivesoftware/openfire/session/ClientSessionTask.java
+END
+OutgoingServerSessionTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/src/java/com/jivesoftware/openfire/session/OutgoingServerSessionTask.java
+END
+RemoteIncomingServerSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/src/java/com/jivesoftware/openfire/session/RemoteIncomingServerSession.java
+END
+RemoteConnectionMultiplexerSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/src/java/com/jivesoftware/openfire/session/RemoteConnectionMultiplexerSession.java
+END
+IncomingServerSessionTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/src/java/com/jivesoftware/openfire/session/IncomingServerSessionTask.java
+END
+ConnectionMultiplexerSessionTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/src/java/com/jivesoftware/openfire/session/ConnectionMultiplexerSessionTask.java
+END
+RemoteSessionTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/src/java/com/jivesoftware/openfire/session/RemoteSessionTask.java
+END
+RemoteComponentSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/src/java/com/jivesoftware/openfire/session/RemoteComponentSession.java
+END
+RemoteSessionLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/src/java/com/jivesoftware/openfire/session/RemoteSessionLocator.java
+END
+ProcessPacketTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/src/java/com/jivesoftware/openfire/session/ProcessPacketTask.java
+END
+ComponentSessionTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/src/java/com/jivesoftware/openfire/session/ComponentSessionTask.java
+END
+DeliverRawTextTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/src/java/com/jivesoftware/openfire/session/DeliverRawTextTask.java
+END
+RemoteClientSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/src/java/com/jivesoftware/openfire/session/RemoteClientSession.java
+END

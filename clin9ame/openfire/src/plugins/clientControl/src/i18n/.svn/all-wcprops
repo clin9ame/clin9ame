@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/10386/openfire/trunk/src/plugins/clientControl/src/i18n
+END
+clientcontrol_i18n_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/10386/openfire/trunk/src/plugins/clientControl/src/i18n/clientcontrol_i18n_pt_BR.properties
+END
+clientcontrol_i18n_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/10386/openfire/trunk/src/plugins/clientControl/src/i18n/clientcontrol_i18n_es.properties
+END
+clientcontrol_i18n_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/10386/openfire/trunk/src/plugins/clientControl/src/i18n/clientcontrol_i18n_fr.properties
+END
+clientcontrol_i18n.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/10386/openfire/trunk/src/plugins/clientControl/src/i18n/clientcontrol_i18n.properties
+END
+clientcontrol_i18n_cs_CZ.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/10386/openfire/trunk/src/plugins/clientControl/src/i18n/clientcontrol_i18n_cs_CZ.properties
+END
+clientcontrol_i18n_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/10386/openfire/trunk/src/plugins/clientControl/src/i18n/clientcontrol_i18n_zh_CN.properties
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/admin
+END
+AdminManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/admin/AdminManager.java
+END
+AdminProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/admin/AdminProvider.java
+END
+DefaultAdminProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/admin/DefaultAdminProvider.java
+END

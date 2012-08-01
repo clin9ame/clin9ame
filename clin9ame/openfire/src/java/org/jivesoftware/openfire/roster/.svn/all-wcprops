@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/12946/openfire/trunk/src/java/org/jivesoftware/openfire/roster
+END
+RosterEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/roster/RosterEventListener.java
+END
+RosterEventDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/roster/RosterEventDispatcher.java
+END
+RosterItemProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/12946/openfire/trunk/src/java/org/jivesoftware/openfire/roster/RosterItemProvider.java
+END
+RosterManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/roster/RosterManager.java
+END
+RosterItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/12942/openfire/trunk/src/java/org/jivesoftware/openfire/roster/RosterItem.java
+END
+Roster.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/12942/openfire/trunk/src/java/org/jivesoftware/openfire/roster/Roster.java
+END

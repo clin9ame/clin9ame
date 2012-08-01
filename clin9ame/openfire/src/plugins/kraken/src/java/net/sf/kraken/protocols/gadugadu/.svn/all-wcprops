@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/gadugadu
+END
+GaduGaduSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/gadugadu/GaduGaduSession.java
+END
+GaduGaduListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/gadugadu/GaduGaduListener.java
+END
+GaduGaduBuddy.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/gadugadu/GaduGaduBuddy.java
+END
+GaduGaduTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/gadugadu/GaduGaduTransport.java
+END

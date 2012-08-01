@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/repos/!svn/ver/12951/openfire/trunk/src/plugins/gojara/src/java/org/jivesoftware/openfire/plugin/gojara/messagefilter/remoteroster/processors
+END
+CleanUpRosterProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/repos/!svn/ver/12951/openfire/trunk/src/plugins/gojara/src/java/org/jivesoftware/openfire/plugin/gojara/messagefilter/remoteroster/processors/CleanUpRosterProcessor.java
+END
+ClientToComponentUpdateProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/repos/!svn/ver/12951/openfire/trunk/src/plugins/gojara/src/java/org/jivesoftware/openfire/plugin/gojara/messagefilter/remoteroster/processors/ClientToComponentUpdateProcessor.java
+END
+SendRosterProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/repos/!svn/ver/12951/openfire/trunk/src/plugins/gojara/src/java/org/jivesoftware/openfire/plugin/gojara/messagefilter/remoteroster/processors/SendRosterProcessor.java
+END
+DiscoIQResigteredProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/repos/!svn/ver/12951/openfire/trunk/src/plugins/gojara/src/java/org/jivesoftware/openfire/plugin/gojara/messagefilter/remoteroster/processors/DiscoIQResigteredProcessor.java
+END
+ReceiveComponentUpdatesProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/repos/!svn/ver/12951/openfire/trunk/src/plugins/gojara/src/java/org/jivesoftware/openfire/plugin/gojara/messagefilter/remoteroster/processors/ReceiveComponentUpdatesProcessor.java
+END
+AbstractRemoteRosterProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/repos/!svn/ver/12951/openfire/trunk/src/plugins/gojara/src/java/org/jivesoftware/openfire/plugin/gojara/messagefilter/remoteroster/processors/AbstractRemoteRosterProcessor.java
+END

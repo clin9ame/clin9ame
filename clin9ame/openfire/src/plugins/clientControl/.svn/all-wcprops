@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/clientControl
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/10416/openfire/trunk/src/plugins/clientControl/readme.html
+END
+changelog.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/11594/openfire/trunk/src/plugins/clientControl/changelog.html
+END
+logo_small.gif
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/10382/openfire/trunk/src/plugins/clientControl/logo_small.gif
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/!svn/ver/11594/openfire/trunk/src/plugins/clientControl/plugin.xml
+END
+logo_large.gif
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/10382/openfire/trunk/src/plugins/clientControl/logo_large.gif
+END

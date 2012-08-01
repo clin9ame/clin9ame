@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/admin/user
+END
+AddUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/admin/user/AddUser.java
+END
+ChangeUserPassword.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/admin/user/ChangeUserPassword.java
+END
+UserProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/admin/user/UserProperties.java
+END
+AuthenticateUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/admin/user/AuthenticateUser.java
+END

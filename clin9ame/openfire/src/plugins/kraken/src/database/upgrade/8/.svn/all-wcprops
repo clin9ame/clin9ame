@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/database/upgrade/8
+END
+gateway_postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/database/upgrade/8/gateway_postgresql.sql
+END
+gateway_mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/database/upgrade/8/gateway_mysql.sql
+END
+gateway_oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/database/upgrade/8/gateway_oracle.sql
+END
+gateway_sqlserver.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/database/upgrade/8/gateway_sqlserver.sql
+END
+gateway_sybase.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/database/upgrade/8/gateway_sybase.sql
+END
+gateway_db2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/database/upgrade/8/gateway_db2.sql
+END
+gateway_hsqldb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/database/upgrade/8/gateway_hsqldb.sql
+END

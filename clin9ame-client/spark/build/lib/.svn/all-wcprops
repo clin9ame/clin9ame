@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/repos/!svn/ver/13085/spark/trunk/build/lib
+END
+jarbundler-2.2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/12556/spark/trunk/build/lib/jarbundler-2.2.0.jar
+END
+junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/repos/!svn/ver/11751/spark/trunk/build/lib/junit.jar
+END
+i4jruntime.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/repos/!svn/ver/8987/spark/trunk/build/lib/i4jruntime.jar
+END
+versions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repos/!svn/ver/12433/spark/trunk/build/lib/versions.txt
+END
+checkstyle.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/!svn/ver/12058/spark/trunk/build/lib/checkstyle.jar
+END
+ant-contrib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/!svn/ver/5261/spark/trunk/build/lib/ant-contrib.jar
+END
+asm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/repos/!svn/ver/11010/spark/trunk/build/lib/asm.jar
+END
+pmd.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/repos/!svn/ver/11010/spark/trunk/build/lib/pmd.jar
+END
+pack200task.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/repos/!svn/ver/5045/spark/trunk/build/lib/pack200task.jar
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/simple
+END
+MessageProcessing.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/simple/MessageProcessing.java
+END
+ContactUri.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/simple/ContactUri.java
+END
+GenericURI.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/simple/GenericURI.java
+END

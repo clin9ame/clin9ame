@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/12428/spark/trunk/src/plugins/apple/src/com/jivesoftware/spark/plugin/apple
+END
+ApplePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12400/spark/trunk/src/plugins/apple/src/com/jivesoftware/spark/plugin/apple/ApplePlugin.java
+END
+ApplePreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/12428/spark/trunk/src/plugins/apple/src/com/jivesoftware/spark/plugin/apple/ApplePreference.java
+END
+ApplePreferencePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/!svn/ver/12428/spark/trunk/src/plugins/apple/src/com/jivesoftware/spark/plugin/apple/ApplePreferencePanel.java
+END
+AppleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/12400/spark/trunk/src/plugins/apple/src/com/jivesoftware/spark/plugin/apple/AppleTest.java
+END
+AppleDock.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/12400/spark/trunk/src/plugins/apple/src/com/jivesoftware/spark/plugin/apple/AppleDock.java
+END
+AppleBounce.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12400/spark/trunk/src/plugins/apple/src/com/jivesoftware/spark/plugin/apple/AppleBounce.java
+END
+AppleProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/12400/spark/trunk/src/plugins/apple/src/com/jivesoftware/spark/plugin/apple/AppleProperties.java
+END

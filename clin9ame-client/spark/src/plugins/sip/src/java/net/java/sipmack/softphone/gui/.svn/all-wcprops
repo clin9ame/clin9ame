@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/softphone/gui
+END
+GuiManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/softphone/gui/GuiManager.java
+END
+GuiCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/softphone/gui/GuiCallback.java
+END
+DefaultGuiManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/softphone/gui/DefaultGuiManager.java
+END

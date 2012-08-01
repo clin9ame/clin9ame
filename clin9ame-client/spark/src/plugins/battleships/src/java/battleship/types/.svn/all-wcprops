@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/12559/spark/trunk/src/plugins/battleships/src/java/battleship/types
+END
+Direction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/12514/spark/trunk/src/plugins/battleships/src/java/battleship/types/Direction.java
+END
+Ship.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/12559/spark/trunk/src/plugins/battleships/src/java/battleship/types/Ship.java
+END
+Types.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/12514/spark/trunk/src/plugins/battleships/src/java/battleship/types/Types.java
+END

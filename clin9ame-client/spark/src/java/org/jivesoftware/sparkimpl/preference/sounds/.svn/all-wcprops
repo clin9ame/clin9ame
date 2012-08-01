@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/preference/sounds
+END
+SoundPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/preference/sounds/SoundPlugin.java
+END
+SoundPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/preference/sounds/SoundPreference.java
+END
+SoundPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/preference/sounds/SoundPreferences.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/!svn/ver/11788/openfire/trunk/build/osx/openfirePrefPane
+END
+authTool.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/!svn/ver/9860/openfire/trunk/build/osx/openfirePrefPane/authTool.c
+END
+openfirePrefPane.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/9656/openfire/trunk/build/osx/openfirePrefPane/openfirePrefPane.m
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/!svn/ver/8008/openfire/trunk/build/osx/openfirePrefPane/Info.plist
+END
+openfire-logo-notext.tif
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/7872/openfire/trunk/build/osx/openfirePrefPane/openfire-logo-notext.tif
+END
+openfire-logo-notext.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/7872/openfire/trunk/build/osx/openfirePrefPane/openfire-logo-notext.png
+END
+openfire-logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/7872/openfire/trunk/build/osx/openfirePrefPane/openfire-logo.png
+END
+jivesoftware_logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/7872/openfire/trunk/build/osx/openfirePrefPane/jivesoftware_logo.png
+END
+openfirePrefPanePref.tiff
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/7872/openfire/trunk/build/osx/openfirePrefPane/openfirePrefPanePref.tiff
+END
+openfirePrefPane.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/10204/openfire/trunk/build/osx/openfirePrefPane/openfirePrefPane.h
+END
+openfirePrefPane_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/7872/openfire/trunk/build/osx/openfirePrefPane/openfirePrefPane_Prefix.pch
+END

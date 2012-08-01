@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/11594/openfire/trunk/src/plugins/sip/src/web
+END
+sipark-user-delete.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/11594/openfire/trunk/src/plugins/sip/src/web/sipark-user-delete.jsp
+END
+sipark-settings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/9352/openfire/trunk/src/plugins/sip/src/web/sipark-settings.jsp
+END
+sipark-user-summary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/11594/openfire/trunk/src/plugins/sip/src/web/sipark-user-summary.jsp
+END
+create-sipark-mapping.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/9352/openfire/trunk/src/plugins/sip/src/web/create-sipark-mapping.jsp
+END
+sipark-log-summary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/10883/openfire/trunk/src/plugins/sip/src/web/sipark-log-summary.jsp
+END

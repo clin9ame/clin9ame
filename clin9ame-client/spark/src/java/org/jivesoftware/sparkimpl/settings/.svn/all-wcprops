@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/13062/spark/trunk/src/java/org/jivesoftware/sparkimpl/settings
+END
+UserSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/settings/UserSettings.java
+END
+SettingsDataProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/settings/SettingsDataProvider.java
+END
+JiveInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/12849/spark/trunk/src/java/org/jivesoftware/sparkimpl/settings/JiveInfo.java
+END
+SettingsData.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/12432/spark/trunk/src/java/org/jivesoftware/sparkimpl/settings/SettingsData.java
+END

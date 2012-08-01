@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/!svn/ver/11594/openfire/trunk/src/plugins/fastpath/src/web
+END
+workgroup-error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-error.jsp
+END
+chat-conversation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/chat-conversation.jsp
+END
+workgroup-properties.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-properties.jsp
+END
+workgroup-summary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-summary.jsp
+END
+workgroup-agent-chats.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-agent-chats.jsp
+END
+global-workgroup.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/global-workgroup.jsp
+END
+workgroup-delete.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-delete.jsp
+END
+usage-summary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/usage-summary.jsp
+END
+workgroup-queue-agents.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/11050/openfire/trunk/src/plugins/fastpath/src/web/workgroup-queue-agents.jsp
+END
+workgroup-create.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-create.jsp
+END
+workgroup-queues.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-queues.jsp
+END
+workgroup-variables.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-variables.jsp
+END
+workgroup-queue-rules.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-queue-rules.jsp
+END
+chat-summary.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/chat-summary.jsp
+END
+workgroup-text-settings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-text-settings.jsp
+END
+workgroup-offline.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-offline.jsp
+END
+uploadSounds.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/11050/openfire/trunk/src/plugins/fastpath/src/web/uploadSounds.jsp
+END
+workgroup-add-response.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-add-response.jsp
+END
+workgroup-repos-settings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-repos-settings.jsp
+END
+upload.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/11050/openfire/trunk/src/plugins/fastpath/src/web/upload.jsp
+END
+workgroup-routing.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-routing.jsp
+END
+workgroup-view-responses.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-view-responses.jsp
+END
+workgroup-transcript-config.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-transcript-config.jsp
+END
+workgroup-settings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-settings.jsp
+END
+workgroup-agents-status.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-agents-status.jsp
+END
+agent-selectors.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/11594/openfire/trunk/src/plugins/fastpath/src/web/agent-selectors.jsp
+END
+user-browser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/user-browser.jsp
+END
+workgroup-add-category.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-add-category.jsp
+END
+check-cluster.jspf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/check-cluster.jspf
+END
+workgroup-delete-success.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-delete-success.jsp
+END
+workgroup-create-success.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-create-success.jsp
+END
+workgroup-monitors.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-monitors.jsp
+END
+workgroup-queue-manage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-queue-manage.jsp
+END
+agent-group-browser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/agent-group-browser.jsp
+END
+workgroup-image-settings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-image-settings.jsp
+END
+workgroup-macros.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-macros.jsp
+END
+workgroup-chatbot.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-chatbot.jsp
+END
+interceptors.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/11594/openfire/trunk/src/plugins/fastpath/src/web/interceptors.jsp
+END
+workgroup-queue-create.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-queue-create.jsp
+END
+workgroup-sound-settings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/web/workgroup-sound-settings.jsp
+END

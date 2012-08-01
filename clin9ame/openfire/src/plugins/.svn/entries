@@ -1,0 +1,106 @@
+10
+
+dir
+13214
+http://svn.igniterealtime.org/svn/repos/openfire/trunk/src/plugins
+http://svn.igniterealtime.org/svn/repos
+
+
+
+2012-07-30T13:26:05.062458Z
+13206
+holger.bergunde
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b35dd754-fafc-0310-a699-88a17e54d16e
+
+clustering
+dir
+
+clientControl
+dir
+
+contentFilter
+dir
+
+stunserver
+dir
+
+subscription
+dir
+
+monitoring
+dir
+
+admin
+dir
+
+justmarried
+dir
+
+sip
+dir
+
+emailListener
+dir
+
+loadStats
+dir
+
+userservice
+dir
+
+jingleNodes
+dir
+
+broadcast
+dir
+
+gojara
+dir
+
+motd
+dir
+
+userCreation
+dir
+
+presence
+dir
+
+search
+dir
+
+xmldebugger
+dir
+
+dbaccess
+dir
+
+fastpath
+dir
+
+registration
+dir
+
+kraken
+dir
+
+userImportExport
+dir
+
+packetFilter
+dir
+

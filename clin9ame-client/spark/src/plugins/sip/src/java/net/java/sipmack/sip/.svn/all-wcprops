@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/12435/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip
+END
+SipRegisterStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/SipRegisterStatus.java
+END
+CommunicationsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/CommunicationsException.java
+END
+SipCommRouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/SipCommRouter.java
+END
+CallProcessing.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/CallProcessing.java
+END
+Call.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/Call.java
+END
+SipCommHop.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/SipCommHop.java
+END
+TransferProcessing.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/TransferProcessing.java
+END
+SIPConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/SIPConfig.java
+END
+RegisterProcessing.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/RegisterProcessing.java
+END
+CallDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/CallDispatcher.java
+END
+SipManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/12435/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/SipManager.java
+END
+ErrorProcessing.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/ErrorProcessing.java
+END
+InterlocutorUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/InterlocutorUI.java
+END
+Interlocutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/Interlocutor.java
+END
+NetworkAddressManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/sip/NetworkAddressManager.java
+END

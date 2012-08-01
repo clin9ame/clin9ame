@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/ui/transfer
+END
+TransferGroupUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/ui/transfer/TransferGroupUI.java
+END
+TransferManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/ui/transfer/TransferManager.java
+END
+TransferListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/ui/transfer/TransferListener.java
+END

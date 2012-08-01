@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/12164/spark/trunk/src/plugins/flashing/build/lib
+END
+FlashWindow.dll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/12154/spark/trunk/src/plugins/flashing/build/lib/FlashWindow.dll
+END
+FlashWindow64.dll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/12164/spark/trunk/src/plugins/flashing/build/lib/FlashWindow64.dll
+END

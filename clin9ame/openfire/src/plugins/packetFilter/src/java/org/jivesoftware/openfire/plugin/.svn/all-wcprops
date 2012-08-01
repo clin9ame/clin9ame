@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/12342/openfire/trunk/src/plugins/packetFilter/src/java/org/jivesoftware/openfire/plugin
+END
+PacketFilterUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/repos/!svn/ver/11443/openfire/trunk/src/plugins/packetFilter/src/java/org/jivesoftware/openfire/plugin/PacketFilterUtil.java
+END
+PacketFilterPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/!svn/ver/11443/openfire/trunk/src/plugins/packetFilter/src/java/org/jivesoftware/openfire/plugin/PacketFilterPlugin.java
+END
+PacketFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/repos/!svn/ver/12342/openfire/trunk/src/plugins/packetFilter/src/java/org/jivesoftware/openfire/plugin/PacketFilter.java
+END

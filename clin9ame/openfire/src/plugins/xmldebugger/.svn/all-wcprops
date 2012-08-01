@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/xmldebugger
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/9082/openfire/trunk/src/plugins/xmldebugger/readme.html
+END
+changelog.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/10443/openfire/trunk/src/plugins/xmldebugger/changelog.html
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/10443/openfire/trunk/src/plugins/xmldebugger/plugin.xml
+END

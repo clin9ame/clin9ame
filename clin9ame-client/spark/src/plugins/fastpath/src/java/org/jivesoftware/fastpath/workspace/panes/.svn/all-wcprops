@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/fastpath/src/java/org/jivesoftware/fastpath/workspace/panes
+END
+CurrentActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/fastpath/src/java/org/jivesoftware/fastpath/workspace/panes/CurrentActivity.java
+END
+QueueActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/fastpath/src/java/org/jivesoftware/fastpath/workspace/panes/QueueActivity.java
+END
+ChatViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/fastpath/src/java/org/jivesoftware/fastpath/workspace/panes/ChatViewer.java
+END
+ChatHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/fastpath/src/java/org/jivesoftware/fastpath/workspace/panes/ChatHistory.java
+END
+QueueItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/fastpath/src/java/org/jivesoftware/fastpath/workspace/panes/QueueItem.java
+END
+HistoryItemRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/fastpath/src/java/org/jivesoftware/fastpath/workspace/panes/HistoryItemRenderer.java
+END
+AgentConversations.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/fastpath/src/java/org/jivesoftware/fastpath/workspace/panes/AgentConversations.java
+END
+HistoryItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/fastpath/src/java/org/jivesoftware/fastpath/workspace/panes/HistoryItem.java
+END
+FastpathPanelRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/fastpath/src/java/org/jivesoftware/fastpath/workspace/panes/FastpathPanelRenderer.java
+END
+BackgroundPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/fastpath/src/java/org/jivesoftware/fastpath/workspace/panes/BackgroundPane.java
+END
+ChatQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/fastpath/src/java/org/jivesoftware/fastpath/workspace/panes/ChatQueue.java
+END
+OnlineAgents.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/fastpath/src/java/org/jivesoftware/fastpath/workspace/panes/OnlineAgents.java
+END
+UserInvitationPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/fastpath/src/java/org/jivesoftware/fastpath/workspace/panes/UserInvitationPane.java
+END
+InvitationPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/fastpath/src/java/org/jivesoftware/fastpath/workspace/panes/InvitationPane.java
+END
+ConversationItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/fastpath/src/java/org/jivesoftware/fastpath/workspace/panes/ConversationItem.java
+END
+AgentConversation.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/fastpath/src/java/org/jivesoftware/fastpath/workspace/panes/AgentConversation.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/repos/!svn/ver/12075/openfire/trunk/src/bin
+END
+openfire.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repos/!svn/ver/11552/openfire/trunk/src/bin/openfire.sh
+END
+openfire-dev.bat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/11589/openfire/trunk/src/bin/openfire-dev.bat
+END
+openfirectl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repos/!svn/ver/12075/openfire/trunk/src/bin/openfirectl
+END
+openfire.bat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/repos/!svn/ver/11511/openfire/trunk/src/bin/openfire.bat
+END

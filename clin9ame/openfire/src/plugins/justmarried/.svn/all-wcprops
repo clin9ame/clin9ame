@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/13206/openfire/trunk/src/plugins/justmarried
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/!svn/ver/13205/openfire/trunk/src/plugins/justmarried/readme.html
+END
+changelog.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/13205/openfire/trunk/src/plugins/justmarried/changelog.html
+END
+logo_small.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/13205/openfire/trunk/src/plugins/justmarried/logo_small.png
+END
+logo_large.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/13205/openfire/trunk/src/plugins/justmarried/logo_large.png
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/13205/openfire/trunk/src/plugins/justmarried/plugin.xml
+END

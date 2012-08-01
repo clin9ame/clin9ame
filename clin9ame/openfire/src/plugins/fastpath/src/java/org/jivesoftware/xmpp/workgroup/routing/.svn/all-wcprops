@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/routing
+END
+RoutingRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/routing/RoutingRule.java
+END
+RoutingManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/routing/RoutingManager.java
+END
+RequestRouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/routing/RequestRouter.java
+END

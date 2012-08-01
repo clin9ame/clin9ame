@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/13086/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/ui
+END
+TopLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/ui/TopLabel.java
+END
+CallHistoryRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/ui/CallHistoryRenderer.java
+END
+Backdrop.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/ui/Backdrop.java
+END
+ContactDialControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/ui/ContactDialControl.java
+END
+PhoneControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/ui/PhoneControl.java
+END
+TelephoneTextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/ui/TelephoneTextField.java
+END
+PhonePad.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/ui/PhonePad.java
+END
+RegistrationStatusPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/ui/RegistrationStatusPanel.java
+END

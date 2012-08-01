@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/10445/openfire/trunk/src/plugins/clientControl/src/web
+END
+spark-download.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/10382/openfire/trunk/src/plugins/clientControl/src/web/spark-download.jsp
+END
+create-bookmark.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/10412/openfire/trunk/src/plugins/clientControl/src/web/create-bookmark.jsp
+END
+url-bookmarks.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/10382/openfire/trunk/src/plugins/clientControl/src/web/url-bookmarks.jsp
+END
+client-features.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/10412/openfire/trunk/src/plugins/clientControl/src/web/client-features.jsp
+END
+permitted-clients.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/10445/openfire/trunk/src/plugins/clientControl/src/web/permitted-clients.jsp
+END
+confirm-bookmark-delete.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/10412/openfire/trunk/src/plugins/clientControl/src/web/confirm-bookmark-delete.jsp
+END
+spark-form.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/10382/openfire/trunk/src/plugins/clientControl/src/web/spark-form.jsp
+END
+groupchat-bookmarks.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/10382/openfire/trunk/src/plugins/clientControl/src/web/groupchat-bookmarks.jsp
+END

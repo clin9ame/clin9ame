@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/12435/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/calllog
+END
+LogPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/12435/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/calllog/LogPacket.java
+END
+CallLogExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/calllog/CallLogExtension.java
+END
+LogManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/11745/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/calllog/LogManager.java
+END
+CallLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/calllog/CallLog.java
+END
+LogManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/calllog/LogManagerImpl.java
+END

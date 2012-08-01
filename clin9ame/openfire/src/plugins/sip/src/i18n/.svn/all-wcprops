@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/9352/openfire/trunk/src/plugins/sip/src/i18n
+END
+sip_i18n.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/9352/openfire/trunk/src/plugins/sip/src/i18n/sip_i18n.properties
+END
+sip_i18n_cs_CZ.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/9352/openfire/trunk/src/plugins/sip/src/i18n/sip_i18n_cs_CZ.properties
+END
+sip_i18n_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/9352/openfire/trunk/src/plugins/sip/src/i18n/sip_i18n_zh_CN.properties
+END
+sip_i18n_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/9352/openfire/trunk/src/plugins/sip/src/i18n/sip_i18n_pt_BR.properties
+END
+sip_i18n_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/9352/openfire/trunk/src/plugins/sip/src/i18n/sip_i18n_es.properties
+END
+sip_i18n_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/9352/openfire/trunk/src/plugins/sip/src/i18n/sip_i18n_fr.properties
+END

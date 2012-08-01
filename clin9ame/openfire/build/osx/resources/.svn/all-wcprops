@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repos/!svn/ver/12051/openfire/trunk/build/osx/resources
+END
+preflight
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/!svn/ver/7998/openfire/trunk/build/osx/resources/preflight
+END
+postinstall
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/12049/openfire/trunk/build/osx/resources/postinstall
+END
+postupgrade
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/12051/openfire/trunk/build/osx/resources/postupgrade
+END
+preupgrade
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/9658/openfire/trunk/build/osx/resources/preupgrade
+END

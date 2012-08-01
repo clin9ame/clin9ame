@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/repos/!svn/ver/12401/spark/trunk/src/plugins/fastpath
+END
+Fastpath.iml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/!svn/ver/10306/spark/trunk/src/plugins/fastpath/Fastpath.iml
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/!svn/ver/12401/spark/trunk/src/plugins/fastpath/plugin.xml
+END

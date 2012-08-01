@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/clearspace
+END
+SystemAdminAdded.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/clearspace/SystemAdminAdded.java
+END
+SystemAdminRemoved.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/clearspace/SystemAdminRemoved.java
+END
+ChangeSharedSecret.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/clearspace/ChangeSharedSecret.java
+END
+GenerateNonce.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/commands/clearspace/GenerateNonce.java
+END

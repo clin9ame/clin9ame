@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/src/i18n
+END
+clustering_i18n_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/src/i18n/clustering_i18n_es.properties
+END
+clustering_i18n_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/src/i18n/clustering_i18n_fr.properties
+END
+clustering_i18n.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/src/i18n/clustering_i18n.properties
+END
+clustering_i18n_cs_CZ.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/src/i18n/clustering_i18n_cs_CZ.properties
+END
+clustering_i18n_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/11361/openfire/trunk/src/plugins/clustering/src/i18n/clustering_i18n_zh_CN.properties
+END

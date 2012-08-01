@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/components
+END
+CloseButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/components/CloseButton.java
+END
+DialButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/components/DialButton.java
+END
+CallPanelButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/components/CallPanelButton.java
+END
+RedialButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/components/RedialButton.java
+END
+EndCallButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/components/EndCallButton.java
+END
+RosterMemberCallButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/components/RosterMemberCallButton.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/sip/src/database/upgrade/2
+END
+sip_sqlserver.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/sip/src/database/upgrade/2/sip_sqlserver.sql
+END
+sip_db2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/sip/src/database/upgrade/2/sip_db2.sql
+END
+sip_hsqldb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/sip/src/database/upgrade/2/sip_hsqldb.sql
+END
+sip_postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/sip/src/database/upgrade/2/sip_postgresql.sql
+END
+sip_mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/sip/src/database/upgrade/2/sip_mysql.sql
+END
+sip_oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/sip/src/database/upgrade/2/sip_oracle.sql
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/12047/openfire/trunk/src/plugins/jingleNodes
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/!svn/ver/11986/openfire/trunk/src/plugins/jingleNodes/readme.html
+END
+changelog.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/11999/openfire/trunk/src/plugins/jingleNodes/changelog.html
+END
+logo_small.gif
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/11883/openfire/trunk/src/plugins/jingleNodes/logo_small.gif
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/repos/!svn/ver/12000/openfire/trunk/src/plugins/jingleNodes/plugin.xml
+END
+logo_large.gif
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/11883/openfire/trunk/src/plugins/jingleNodes/logo_large.gif
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/repos/!svn/ver/10314/openfire/trunk/build/projects
+END
+Openfire.ipr
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/!svn/ver/9351/openfire/trunk/build/projects/Openfire.ipr
+END
+Plugins.iml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/!svn/ver/10314/openfire/trunk/build/projects/Plugins.iml
+END
+Openfire.iml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/!svn/ver/9857/openfire/trunk/build/projects/Openfire.iml
+END
+Admin.iml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/9907/openfire/trunk/build/projects/Admin.iml
+END
+Spank.iml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/9351/openfire/trunk/build/projects/Spank.iml
+END

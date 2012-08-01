@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/13039/openfire/trunk/src/java/org/jivesoftware/openfire/net
+END
+SocketAcceptThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/net/SocketAcceptThread.java
+END
+TLSStreamReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/net/TLSStreamReader.java
+END
+ServerSocketReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/net/ServerSocketReader.java
+END
+SSLJiveTrustManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/net/SSLJiveTrustManagerFactory.java
+END
+ChannelInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/net/ChannelInputStream.java
+END
+TLSStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/net/TLSStatus.java
+END
+VirtualConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/net/VirtualConnection.java
+END
+BlockingAcceptingMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/net/BlockingAcceptingMode.java
+END
+ClientTrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/net/ClientTrustManager.java
+END
+TLSStreamWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/net/TLSStreamWriter.java
+END
+ComponentStanzaHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/net/ComponentStanzaHandler.java
+END
+BlockingReadingMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/12836/openfire/trunk/src/java/org/jivesoftware/openfire/net/BlockingReadingMode.java
+END
+SocketPacketWriteHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/net/SocketPacketWriteHandler.java
+END
+OCSPChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/net/OCSPChecker.java
+END
+ClientStanzaHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/net/ClientStanzaHandler.java
+END
+XMPPCallbackHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/net/XMPPCallbackHandler.java
+END
+MXParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/11847/openfire/trunk/src/java/org/jivesoftware/openfire/net/MXParser.java
+END
+SASLAuthentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/12235/openfire/trunk/src/java/org/jivesoftware/openfire/net/SASLAuthentication.java
+END
+ServerTrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/12236/openfire/trunk/src/java/org/jivesoftware/openfire/net/ServerTrustManager.java
+END
+TLSWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/13001/openfire/trunk/src/java/org/jivesoftware/openfire/net/TLSWrapper.java
+END
+ServerTrafficCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/11683/openfire/trunk/src/java/org/jivesoftware/openfire/net/ServerTrafficCounter.java
+END
+XMLSocketWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/net/XMLSocketWriter.java
+END
+SocketConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/net/SocketConnection.java
+END
+SocketReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/net/SocketReader.java
+END
+SocketAcceptingMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/net/SocketAcceptingMode.java
+END
+SSLJiveKeyManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/net/SSLJiveKeyManagerFactory.java
+END
+SocketSendingTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/net/SocketSendingTracker.java
+END
+SSLJiveTrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/net/SSLJiveTrustManager.java
+END
+TLSStreamHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12974/openfire/trunk/src/java/org/jivesoftware/openfire/net/TLSStreamHandler.java
+END
+SelectorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/net/SelectorAction.java
+END
+DNSUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/net/DNSUtil.java
+END
+SSLJiveKeyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/net/SSLJiveKeyManager.java
+END
+StalledSessionsFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/net/StalledSessionsFilter.java
+END
+ServerStanzaHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/net/ServerStanzaHandler.java
+END
+IOExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/11379/openfire/trunk/src/java/org/jivesoftware/openfire/net/IOExecutor.java
+END
+SocketReadingMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/net/SocketReadingMode.java
+END
+SSLConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/12234/openfire/trunk/src/java/org/jivesoftware/openfire/net/SSLConfig.java
+END
+MultiplexerStanzaHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/net/MultiplexerStanzaHandler.java
+END
+MulticastDNSService.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/13039/openfire/trunk/src/java/org/jivesoftware/openfire/net/MulticastDNSService.java
+END
+StanzaHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/11583/openfire/trunk/src/java/org/jivesoftware/openfire/net/StanzaHandler.java
+END

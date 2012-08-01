@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/muc
+END
+MUCTransportSessionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/muc/MUCTransportSessionManager.java
+END
+MUCTransportSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/muc/MUCTransportSession.java
+END
+MUCTransportRoomMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/muc/MUCTransportRoomMember.java
+END
+BaseMUCTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/muc/BaseMUCTransport.java
+END
+MUCTransportRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/muc/MUCTransportRoom.java
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/13086/spark/trunk/src/java/org/jivesoftware/spark/ui/conferences
+END
+GroupChatInvitationUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/conferences/GroupChatInvitationUI.java
+END
+AnswerFormDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/conferences/AnswerFormDialog.java
+END
+JoinConferenceRoomDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/conferences/JoinConferenceRoomDialog.java
+END
+InvitationDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/12565/spark/trunk/src/java/org/jivesoftware/spark/ui/conferences/InvitationDialog.java
+END
+ConferenceRoomBrowser.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/13086/spark/trunk/src/java/org/jivesoftware/spark/ui/conferences/ConferenceRoomBrowser.java
+END
+BannedUsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/conferences/BannedUsers.java
+END
+ConferenceServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/13052/spark/trunk/src/java/org/jivesoftware/spark/ui/conferences/ConferenceServices.java
+END
+DataFormDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/12571/spark/trunk/src/java/org/jivesoftware/spark/ui/conferences/DataFormDialog.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/4456/spark/trunk/src/java/org/jivesoftware/spark/ui/conferences/package.html
+END
+ConversationInvitation.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/conferences/ConversationInvitation.java
+END
+RoomBrowser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/conferences/RoomBrowser.java
+END
+RoomCreationDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/conferences/RoomCreationDialog.java
+END
+ConferenceItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/12591/spark/trunk/src/java/org/jivesoftware/spark/ui/conferences/ConferenceItem.java
+END
+BookmarksUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/13052/spark/trunk/src/java/org/jivesoftware/spark/ui/conferences/BookmarksUI.java
+END
+GroupChatParticipantList.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/12910/spark/trunk/src/java/org/jivesoftware/spark/ui/conferences/GroupChatParticipantList.java
+END
+RoomInvitationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/conferences/RoomInvitationListener.java
+END
+ConferenceUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12843/spark/trunk/src/java/org/jivesoftware/spark/ui/conferences/ConferenceUtils.java
+END
+ConferenceServiceBrowser.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/12432/spark/trunk/src/java/org/jivesoftware/spark/ui/conferences/ConferenceServiceBrowser.java
+END
+BookmarksListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/ui/conferences/BookmarksListener.java
+END

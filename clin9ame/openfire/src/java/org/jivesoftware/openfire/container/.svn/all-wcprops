@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/12945/openfire/trunk/src/java/org/jivesoftware/openfire/container
+END
+PluginManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/container/PluginManagerListener.java
+END
+PluginServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/container/PluginServlet.java
+END
+PluginListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/container/PluginListener.java
+END
+PluginCacheConfigurator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/container/PluginCacheConfigurator.java
+END
+GetAdminConsoleInfoTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/container/GetAdminConsoleInfoTask.java
+END
+PluginClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/container/PluginClassLoader.java
+END
+PluginCacheRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/container/PluginCacheRegistry.java
+END
+PluginIconServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/container/PluginIconServlet.java
+END
+IsPluginInstalledTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/container/IsPluginInstalledTask.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/7872/openfire/trunk/src/java/org/jivesoftware/openfire/container/package.html
+END
+CacheInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/container/CacheInfo.java
+END
+PluginDevEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/container/PluginDevEnvironment.java
+END
+Module.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/container/Module.java
+END
+BasicModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/container/BasicModule.java
+END
+PluginManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/container/PluginManager.java
+END
+AdminConsolePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/12945/openfire/trunk/src/java/org/jivesoftware/openfire/container/AdminConsolePlugin.java
+END
+Plugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/container/Plugin.java
+END

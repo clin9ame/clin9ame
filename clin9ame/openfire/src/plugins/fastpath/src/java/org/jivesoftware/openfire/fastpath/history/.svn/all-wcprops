@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/history
+END
+AgentChatSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/history/AgentChatSession.java
+END
+ChatSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/history/ChatSession.java
+END
+ChatTranscriptManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/history/ChatTranscriptManager.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/monitoring/src/java/org/jivesoftware/openfire/reporting/graph
+END
+GraphServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/monitoring/src/java/org/jivesoftware/openfire/reporting/graph/GraphServlet.java
+END
+GraphEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/monitoring/src/java/org/jivesoftware/openfire/reporting/graph/GraphEngine.java
+END

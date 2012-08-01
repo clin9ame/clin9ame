@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/mediaproxy
+END
+RelaySession.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/mediaproxy/RelaySession.java
+END
+MediaProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/mediaproxy/MediaProxy.java
+END
+MediaProxyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/mediaproxy/MediaProxyService.java
+END
+DynamicAddressChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/mediaproxy/DynamicAddressChannel.java
+END
+MediaProxySession.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/mediaproxy/MediaProxySession.java
+END
+DatagramListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/mediaproxy/DatagramListener.java
+END
+Channel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/mediaproxy/Channel.java
+END
+SessionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/mediaproxy/SessionListener.java
+END
+Echo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/mediaproxy/Echo.java
+END
+ProxyCandidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/mediaproxy/ProxyCandidate.java
+END

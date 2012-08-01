@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/tester/comm
+END
+CommunicationsErrorEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/tester/comm/CommunicationsErrorEvent.java
+END
+CommunicationsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/tester/comm/CommunicationsException.java
+END
+CommunicationsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/tester/comm/CommunicationsListener.java
+END

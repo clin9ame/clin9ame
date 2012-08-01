@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/13001/openfire/trunk/src/java/org/jivesoftware/openfire/nio
+END
+ComponentConnectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/nio/ComponentConnectionHandler.java
+END
+XMLNotWellFormedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/12980/openfire/trunk/src/java/org/jivesoftware/openfire/nio/XMLNotWellFormedException.java
+END
+XMPPEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/nio/XMPPEncoder.java
+END
+NIOConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/13001/openfire/trunk/src/java/org/jivesoftware/openfire/nio/NIOConnection.java
+END
+MultiplexerConnectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/nio/MultiplexerConnectionHandler.java
+END
+ByteBufferWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/nio/ByteBufferWriter.java
+END
+XMPPCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/nio/XMPPCodecFactory.java
+END
+XMPPDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/nio/XMPPDecoder.java
+END
+ClientConnectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/nio/ClientConnectionHandler.java
+END
+ConnectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/12983/openfire/trunk/src/java/org/jivesoftware/openfire/nio/ConnectionHandler.java
+END
+XMLLightweightParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12980/openfire/trunk/src/java/org/jivesoftware/openfire/nio/XMLLightweightParser.java
+END

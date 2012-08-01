@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/12582/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/transcripts
+END
+HistoryMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/transcripts/HistoryMessage.java
+END
+ChatTranscriptPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/12582/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/transcripts/ChatTranscriptPlugin.java
+END
+ChatTranscript.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12483/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/transcripts/ChatTranscript.java
+END
+ChatTranscripts.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/12512/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/transcripts/ChatTranscripts.java
+END

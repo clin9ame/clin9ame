@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/12432/spark/trunk/src/java/org/jivesoftware/launcher
+END
+Startup.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/12432/spark/trunk/src/java/org/jivesoftware/launcher/Startup.java
+END
+JiveClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/launcher/JiveClassLoader.java
+END
+Installer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/launcher/Installer.java
+END

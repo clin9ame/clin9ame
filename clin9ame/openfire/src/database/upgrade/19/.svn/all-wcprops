@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/10813/openfire/trunk/src/database/upgrade/19
+END
+openfire_hsqldb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/10158/openfire/trunk/src/database/upgrade/19/openfire_hsqldb.sql
+END
+openfire_postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/10158/openfire/trunk/src/database/upgrade/19/openfire_postgresql.sql
+END
+openfire_mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/10160/openfire/trunk/src/database/upgrade/19/openfire_mysql.sql
+END
+openfire_oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/10158/openfire/trunk/src/database/upgrade/19/openfire_oracle.sql
+END
+openfire_sqlserver.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/10813/openfire/trunk/src/database/upgrade/19/openfire_sqlserver.sql
+END
+openfire_sybase.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/10158/openfire/trunk/src/database/upgrade/19/openfire_sybase.sql
+END
+openfire_db2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/10812/openfire/trunk/src/database/upgrade/19/openfire_db2.sql
+END

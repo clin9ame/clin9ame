@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/repos/!svn/ver/12484/spark/trunk/src/java/org/jivesoftware/spark/plugin
+END
+ContextMenuListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/plugin/ContextMenuListener.java
+END
+MetadataListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/12432/spark/trunk/src/java/org/jivesoftware/spark/plugin/MetadataListener.java
+END
+Invokable.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/plugin/Invokable.java
+END
+PluginClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/plugin/PluginClassLoader.java
+END
+PluginDependency.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/11740/spark/trunk/src/java/org/jivesoftware/spark/plugin/PluginDependency.java
+END
+PublicPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/12484/spark/trunk/src/java/org/jivesoftware/spark/plugin/PublicPlugin.java
+END
+Plugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/plugin/Plugin.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/4456/spark/trunk/src/java/org/jivesoftware/spark/plugin/package.html
+END

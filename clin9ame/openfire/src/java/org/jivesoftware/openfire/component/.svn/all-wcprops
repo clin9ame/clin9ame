@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/11691/openfire/trunk/src/java/org/jivesoftware/openfire/component
+END
+ExternalComponentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/11691/openfire/trunk/src/java/org/jivesoftware/openfire/component/ExternalComponentManager.java
+END
+ExternalComponentManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/component/ExternalComponentManagerListener.java
+END
+NotifyComponentInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/component/NotifyComponentInfo.java
+END
+NotifyComponentRegistered.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/component/NotifyComponentRegistered.java
+END
+ComponentEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/component/ComponentEventListener.java
+END
+InternalComponentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/component/InternalComponentManager.java
+END
+NotifyComponentUnregistered.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/component/NotifyComponentUnregistered.java
+END
+ExternalComponentConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/component/ExternalComponentConfiguration.java
+END

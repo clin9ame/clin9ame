@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/repos/!svn/ver/5444/spark/trunk/src/plugins/reversi/src/resources/images
+END
+you.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/5444/spark/trunk/src/plugins/reversi/src/resources/images/you.png
+END
+them.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/5444/spark/trunk/src/plugins/reversi/src/resources/images/them.png
+END
+score-button-black.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/5444/spark/trunk/src/plugins/reversi/src/resources/images/score-button-black.png
+END
+turn-label-black.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/5444/spark/trunk/src/plugins/reversi/src/resources/images/turn-label-black.png
+END
+button-resign.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/5444/spark/trunk/src/plugins/reversi/src/resources/images/button-resign.png
+END
+score-button-white.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/5444/spark/trunk/src/plugins/reversi/src/resources/images/score-button-white.png
+END
+turn-label-white.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/5444/spark/trunk/src/plugins/reversi/src/resources/images/turn-label-white.png
+END
+reversi-board.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/5444/spark/trunk/src/plugins/reversi/src/resources/images/reversi-board.png
+END
+reversi-icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/5444/spark/trunk/src/plugins/reversi/src/resources/images/reversi-icon.png
+END

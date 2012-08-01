@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/ui/components
+END
+ControlPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/ui/components/ControlPanel.java
+END
+RectangleButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/ui/components/RectangleButton.java
+END
+JavaMixer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/ui/components/JavaMixer.java
+END
+RoundLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/ui/components/RoundLabel.java
+END
+SnapWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin/ui/components/SnapWindow.java
+END

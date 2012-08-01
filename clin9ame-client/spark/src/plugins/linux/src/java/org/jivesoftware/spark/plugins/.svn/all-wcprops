@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/10397/spark/trunk/src/plugins/linux/src/java/org/jivesoftware/spark/plugins
+END
+SystemTrayPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/8932/spark/trunk/src/plugins/linux/src/java/org/jivesoftware/spark/plugins/SystemTrayPlugin.java
+END
+SparkSystemTray.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/10397/spark/trunk/src/plugins/linux/src/java/org/jivesoftware/spark/plugins/SparkSystemTray.java
+END

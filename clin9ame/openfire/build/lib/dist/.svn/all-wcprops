@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/repos/!svn/ver/12950/openfire/trunk/build/lib/dist
+END
+jtds.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/!svn/ver/9350/openfire/trunk/build/lib/dist/jtds.jar
+END
+servlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/repos/!svn/ver/10460/openfire/trunk/build/lib/dist/servlet.jar
+END
+mysql.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/9575/openfire/trunk/build/lib/dist/mysql.jar
+END
+postgres.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/11679/openfire/trunk/build/lib/dist/postgres.jar
+END
+jdic.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/dist/jdic.jar
+END
+bouncycastle.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/12950/openfire/trunk/build/lib/dist/bouncycastle.jar
+END
+hsqldb.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/dist/hsqldb.jar
+END
+tray.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/dist/tray.dll
+END
+activation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/!svn/ver/7872/openfire/trunk/build/lib/dist/activation.jar
+END
+mail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/repos/!svn/ver/9675/openfire/trunk/build/lib/dist/mail.jar
+END
+slf4j-log4j12.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/!svn/ver/12943/openfire/trunk/build/lib/dist/slf4j-log4j12.jar
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/12944/openfire/trunk/build/lib/dist/log4j.xml
+END

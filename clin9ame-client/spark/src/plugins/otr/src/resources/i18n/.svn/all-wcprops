@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/13061/spark/trunk/src/plugins/otr/src/resources/i18n
+END
+otrplugin_i18n_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12479/spark/trunk/src/plugins/otr/src/resources/i18n/otrplugin_i18n_de.properties
+END
+otrplugin_i18n_pl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/13061/spark/trunk/src/plugins/otr/src/resources/i18n/otrplugin_i18n_pl.properties
+END
+otrplugin_i18n_lt.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12513/spark/trunk/src/plugins/otr/src/resources/i18n/otrplugin_i18n_lt.properties
+END
+otrplugin_i18n.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/12479/spark/trunk/src/plugins/otr/src/resources/i18n/otrplugin_i18n.properties
+END

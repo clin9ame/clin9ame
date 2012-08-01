@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/12591/spark/trunk/src/java/org/jivesoftware/spark/component/panes
+END
+CollapsibleTitlePane.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/12581/spark/trunk/src/java/org/jivesoftware/spark/component/panes/CollapsibleTitlePane.java
+END
+CollapsiblePaneListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/spark/component/panes/CollapsiblePaneListener.java
+END
+ICollapsibleTitlePane.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12591/spark/trunk/src/java/org/jivesoftware/spark/component/panes/ICollapsibleTitlePane.java
+END
+BaseCollapsibleTitlePane.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/12591/spark/trunk/src/java/org/jivesoftware/spark/component/panes/BaseCollapsibleTitlePane.java
+END
+CollapsiblePane.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/12583/spark/trunk/src/java/org/jivesoftware/spark/component/panes/CollapsiblePane.java
+END

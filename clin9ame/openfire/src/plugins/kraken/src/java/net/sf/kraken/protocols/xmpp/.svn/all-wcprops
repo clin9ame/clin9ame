@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/12870/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/xmpp
+END
+XMPPTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/xmpp/XMPPTransport.java
+END
+XMPPPresenceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/xmpp/XMPPPresenceHandler.java
+END
+XMPPSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/xmpp/XMPPSession.java
+END
+XMPPListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/xmpp/XMPPListener.java
+END
+XMPPBuddy.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12835/openfire/trunk/src/plugins/kraken/src/java/net/sf/kraken/protocols/xmpp/XMPPBuddy.java
+END

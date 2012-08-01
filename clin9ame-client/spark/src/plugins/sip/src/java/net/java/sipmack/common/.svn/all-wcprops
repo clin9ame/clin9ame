@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/12435/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/common
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/common/Utils.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/common/Log.java
+END
+AlertManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/12374/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/common/AlertManager.java
+END
+DialSoundManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/common/DialSoundManager.java
+END
+Scheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/12432/spark/trunk/src/plugins/sip/src/java/net/java/sipmack/common/Scheduler.java
+END

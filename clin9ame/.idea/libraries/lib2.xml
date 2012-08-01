@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/sip/lib/nist-sip-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/src/plugins/sip/lib/JainSipApi1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

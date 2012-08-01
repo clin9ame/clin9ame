@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/repos/!svn/ver/13085/spark/trunk/src/java/org/jivesoftware/resource
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/12593/spark/trunk/src/java/org/jivesoftware/resource/default.properties
+END
+ConfigurationRes.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/resource/ConfigurationRes.java
+END
+configuration.properties
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/4456/spark/trunk/src/java/org/jivesoftware/resource/configuration.properties
+END
+Default.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/12593/spark/trunk/src/java/org/jivesoftware/resource/Default.java
+END
+SoundsRes.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/resource/SoundsRes.java
+END
+sounds.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/4456/spark/trunk/src/java/org/jivesoftware/resource/sounds.properties
+END
+Res.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/12573/spark/trunk/src/java/org/jivesoftware/resource/Res.java
+END
+SparkRes.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/13085/spark/trunk/src/java/org/jivesoftware/resource/SparkRes.java
+END
+spark.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/13085/spark/trunk/src/java/org/jivesoftware/resource/spark.properties
+END

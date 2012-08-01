@@ -1,0 +1,67 @@
+10
+
+dir
+13214
+http://svn.igniterealtime.org/svn/repos/openfire/trunk/src
+http://svn.igniterealtime.org/svn/repos
+
+
+
+2012-07-30T13:26:05.062458Z
+13206
+holger.bergunde
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b35dd754-fafc-0310-a699-88a17e54d16e
+
+i18n
+dir
+
+test
+dir
+
+tools
+dir
+
+java
+dir
+
+plugins
+dir
+
+database
+dir
+
+conf
+dir
+
+javadoc
+dir
+
+security
+dir
+
+bin
+dir
+
+resources
+dir
+
+spank
+dir
+
+web
+dir
+

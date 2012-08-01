@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/interceptor
+END
+UserInterceptorBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/interceptor/UserInterceptorBeanInfo.java
+END
+PacketInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/interceptor/PacketInterceptor.java
+END
+RoomInterceptorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/interceptor/RoomInterceptorManager.java
+END
+TrafficMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/interceptor/TrafficMonitor.java
+END
+AgentInterceptorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/interceptor/AgentInterceptorManager.java
+END
+TrafficMonitorBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/interceptor/TrafficMonitorBeanInfo.java
+END
+InterceptorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/interceptor/InterceptorManager.java
+END
+WorkgroupInterceptorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/interceptor/WorkgroupInterceptorManager.java
+END
+OfferInterceptorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/interceptor/OfferInterceptorManager.java
+END
+PacketRejectedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/interceptor/PacketRejectedException.java
+END
+UserInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/repos/!svn/ver/10312/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/interceptor/UserInterceptor.java
+END
+ChatbotInterceptorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/interceptor/ChatbotInterceptorManager.java
+END
+QueueInterceptorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/xmpp/workgroup/interceptor/QueueInterceptorManager.java
+END

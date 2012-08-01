@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/12942/openfire/trunk/src/java/org/jivesoftware/openfire/entitycaps
+END
+EntityCapabilitiesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/11580/openfire/trunk/src/java/org/jivesoftware/openfire/entitycaps/EntityCapabilitiesManager.java
+END
+EntityCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/12942/openfire/trunk/src/java/org/jivesoftware/openfire/entitycaps/EntityCapabilities.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/9434/openfire/trunk/src/java/org/jivesoftware/openfire/entitycaps/package.html
+END

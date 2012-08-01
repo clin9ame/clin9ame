@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/12215/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/idle
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/12195/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/idle/COPYING
+END
+UserIdlePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12215/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/idle/UserIdlePlugin.java
+END

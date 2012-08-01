@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/sip/src/database
+END
+sip_sqlserver.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/sip/src/database/sip_sqlserver.sql
+END
+sip_db2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/sip/src/database/sip_db2.sql
+END
+sip_hsqldb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/sip/src/database/sip_hsqldb.sql
+END
+sip_postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/sip/src/database/sip_postgresql.sql
+END
+sip_mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/sip/src/database/sip_mysql.sql
+END
+sip_oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/10158/openfire/trunk/src/plugins/sip/src/database/sip_oracle.sql
+END

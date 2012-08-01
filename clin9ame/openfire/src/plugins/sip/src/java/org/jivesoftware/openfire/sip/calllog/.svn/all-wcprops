@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/calllog
+END
+CallFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/10869/openfire/trunk/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/calllog/CallFilter.java
+END
+CallLogDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/11448/openfire/trunk/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/calllog/CallLogDAO.java
+END
+CallLogExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/calllog/CallLogExtension.java
+END
+CallLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/sip/src/java/org/jivesoftware/openfire/sip/calllog/CallLog.java
+END

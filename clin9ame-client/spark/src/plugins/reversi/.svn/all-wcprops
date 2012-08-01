@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/repos/!svn/ver/12554/spark/trunk/src/plugins/reversi
+END
+Reversi.ipr
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/5444/spark/trunk/src/plugins/reversi/Reversi.ipr
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/12485/spark/trunk/src/plugins/reversi/plugin.xml
+END
+ReversiPlugin.iml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/9710/spark/trunk/src/plugins/reversi/ReversiPlugin.iml
+END

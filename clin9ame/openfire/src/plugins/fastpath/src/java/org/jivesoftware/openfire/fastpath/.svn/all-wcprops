@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12020/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath
+END
+WorkgroupSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/WorkgroupSettings.java
+END
+ImageServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/ImageServlet.java
+END
+FastpathPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/FastpathPlugin.java
+END
+SoundServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/SoundServlet.java
+END

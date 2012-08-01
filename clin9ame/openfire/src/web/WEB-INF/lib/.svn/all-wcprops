@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/repos/!svn/ver/11179/openfire/trunk/src/web/WEB-INF/lib
+END
+versions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/repos/!svn/ver/11179/openfire/trunk/src/web/WEB-INF/lib/versions.txt
+END
+dwr.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/11179/openfire/trunk/src/web/WEB-INF/lib/dwr.jar
+END
+commons-fileupload.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/8752/openfire/trunk/src/web/WEB-INF/lib/commons-fileupload.jar
+END
+commons-io.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/repos/!svn/ver/8752/openfire/trunk/src/web/WEB-INF/lib/commons-io.jar
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/7872/openfire/trunk/src/web/WEB-INF/lib/readme.txt
+END

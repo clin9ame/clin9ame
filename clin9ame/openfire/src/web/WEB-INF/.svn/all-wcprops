@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/repos/!svn/ver/11588/openfire/trunk/src/web/WEB-INF
+END
+sitemesh.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/repos/!svn/ver/7872/openfire/trunk/src/web/WEB-INF/sitemesh.xml
+END
+web.xml.startup.servlet
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/repos/!svn/ver/7872/openfire/trunk/src/web/WEB-INF/web.xml.startup.servlet
+END
+decorators.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/repos/!svn/ver/9891/openfire/trunk/src/web/WEB-INF/decorators.xml
+END
+admin.tld
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/repos/!svn/ver/9810/openfire/trunk/src/web/WEB-INF/admin.tld
+END
+dwr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/11588/openfire/trunk/src/web/WEB-INF/dwr.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/10870/openfire/trunk/src/web/WEB-INF/web.xml
+END
