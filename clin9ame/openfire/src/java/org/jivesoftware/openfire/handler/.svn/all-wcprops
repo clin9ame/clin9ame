@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/13058/openfire/trunk/src/java/org/jivesoftware/openfire/handler
+END
+IQPrivateHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/handler/IQPrivateHandler.java
+END
+IQOfflineMessagesHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/handler/IQOfflineMessagesHandler.java
+END
+IQBindHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/handler/IQBindHandler.java
+END
+PresenceSubscribeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/12561/openfire/trunk/src/java/org/jivesoftware/openfire/handler/PresenceSubscribeHandler.java
+END
+IQPrivacyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/handler/IQPrivacyHandler.java
+END
+PresenceUpdateHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/handler/PresenceUpdateHandler.java
+END
+IQRosterHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/handler/IQRosterHandler.java
+END
+IQHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/handler/IQHandler.java
+END
+IQAuthInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/handler/IQAuthInfo.java
+END
+IQLastActivityHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/handler/IQLastActivityHandler.java
+END
+DirectedPresence.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/handler/DirectedPresence.java
+END
+IQSharedGroupHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/handler/IQSharedGroupHandler.java
+END
+IQRegisterHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/handler/IQRegisterHandler.java
+END
+IQVersionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12838/openfire/trunk/src/java/org/jivesoftware/openfire/handler/IQVersionHandler.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/7872/openfire/trunk/src/java/org/jivesoftware/openfire/handler/package.html
+END
+IQPingHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/handler/IQPingHandler.java
+END
+IQTimeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/handler/IQTimeHandler.java
+END
+IQvCardHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/13058/openfire/trunk/src/java/org/jivesoftware/openfire/handler/IQvCardHandler.java
+END
+IQAuthHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/handler/IQAuthHandler.java
+END
+IQRegisterInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/handler/IQRegisterInfo.java
+END
+IQSessionEstablishmentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/repos/!svn/ver/12147/openfire/trunk/src/java/org/jivesoftware/openfire/handler/IQSessionEstablishmentHandler.java
+END

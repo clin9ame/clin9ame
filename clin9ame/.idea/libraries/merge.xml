@@ -1,0 +1,46 @@
+<component name="libraryTable">
+  <library name="merge">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/dom4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/jetty-server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/jmdns.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/jdom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/jetty-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/jetty-xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/jetty-continuation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/proxool.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/jetty-websocket.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/stringprep.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/slf4j-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/concurrentlinkedhashmap-lru-1.0_jdk5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/jzlib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/jetty-http.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/mina-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/mina-filter-compression.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/jetty-webapp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/commons-lang.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/commons-codec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/xpp3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/commons-httpclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/dbutil.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/jetty-security.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/jetty-servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/jetty-io.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/libidn.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/tinder.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/mina-filter-ssl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/jaxen.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/rome.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/rome-fetcher.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/shaj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openfire/build/lib/merge/sitemesh.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

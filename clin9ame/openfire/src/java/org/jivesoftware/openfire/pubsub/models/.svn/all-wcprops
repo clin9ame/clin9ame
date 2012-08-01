@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/models
+END
+OpenPublisher.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/models/OpenPublisher.java
+END
+RosterAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/models/RosterAccess.java
+END
+AccessModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/models/AccessModel.java
+END
+OnlyPublishers.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/models/OnlyPublishers.java
+END
+OpenAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/models/OpenAccess.java
+END
+PresenceAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/models/PresenceAccess.java
+END
+OnlySubscribers.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/models/OnlySubscribers.java
+END
+AuthorizeAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/models/AuthorizeAccess.java
+END
+PublisherModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/models/PublisherModel.java
+END
+WhitelistAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/models/WhitelistAccess.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/7872/openfire/trunk/src/java/org/jivesoftware/openfire/pubsub/models/package.html
+END

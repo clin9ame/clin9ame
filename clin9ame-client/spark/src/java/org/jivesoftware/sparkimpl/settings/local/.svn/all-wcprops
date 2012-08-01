@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/13062/spark/trunk/src/java/org/jivesoftware/sparkimpl/settings/local
+END
+PreferenceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/settings/local/PreferenceListener.java
+END
+LocalPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/13062/spark/trunk/src/java/org/jivesoftware/sparkimpl/settings/local/LocalPreference.java
+END
+LocalPreferencePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/13062/spark/trunk/src/java/org/jivesoftware/sparkimpl/settings/local/LocalPreferencePanel.java
+END
+WinRegistryReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/12435/spark/trunk/src/java/org/jivesoftware/sparkimpl/settings/local/WinRegistryReader.java
+END
+SettingsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/13044/spark/trunk/src/java/org/jivesoftware/sparkimpl/settings/local/SettingsManager.java
+END
+LocalPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/13062/spark/trunk/src/java/org/jivesoftware/sparkimpl/settings/local/LocalPreferences.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/12572/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/layout
+END
+LayoutSettingsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/layout/LayoutSettingsManager.java
+END
+LayoutPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/layout/LayoutPlugin.java
+END
+LayoutSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/12572/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/layout/LayoutSettings.java
+END

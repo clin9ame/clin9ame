@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/12434/spark/trunk/src/java/org/jivesoftware/sparkimpl/search/users
+END
+UserSearchService.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/search/users/UserSearchService.java
+END
+UserSearchResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/12432/spark/trunk/src/java/org/jivesoftware/sparkimpl/search/users/UserSearchResults.java
+END
+UserSearchForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/repos/!svn/ver/12384/spark/trunk/src/java/org/jivesoftware/sparkimpl/search/users/UserSearchForm.java
+END
+SearchForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/12434/spark/trunk/src/java/org/jivesoftware/sparkimpl/search/users/SearchForm.java
+END

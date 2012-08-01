@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/12942/openfire/trunk/src/java/org/jivesoftware/openfire/group
+END
+GroupManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/group/GroupManager.java
+END
+GroupProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/group/GroupProvider.java
+END
+GroupCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/openfire/group/GroupCollection.java
+END
+GroupNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/group/GroupNotFoundException.java
+END
+JDBCGroupProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/openfire/group/JDBCGroupProvider.java
+END
+DefaultGroupProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/11696/openfire/trunk/src/java/org/jivesoftware/openfire/group/DefaultGroupProvider.java
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/12942/openfire/trunk/src/java/org/jivesoftware/openfire/group/Group.java
+END
+GroupAlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/openfire/group/GroupAlreadyExistsException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/7872/openfire/trunk/src/java/org/jivesoftware/openfire/group/package.html
+END

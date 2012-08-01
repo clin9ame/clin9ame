@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/repos/!svn/ver/13069/openfire/trunk/src/java/org/jivesoftware/util
+END
+AlreadyExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/util/AlreadyExistsException.java
+END
+Enum.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/util/Enum.java
+END
+LocaleFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/util/LocaleFilter.java
+END
+HttpClientWithTimeoutFeedFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/util/HttpClientWithTimeoutFeedFetcher.java
+END
+WebManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/util/WebManager.java
+END
+JiveProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/11691/openfire/trunk/src/java/org/jivesoftware/util/JiveProperties.java
+END
+PropertyClusterEventTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/util/PropertyClusterEventTask.java
+END
+ByteFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/util/ByteFormat.java
+END
+SimpleSSLSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/13001/openfire/trunk/src/java/org/jivesoftware/util/SimpleSSLSocketFactory.java
+END
+ModificationNotAllowedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/util/ModificationNotAllowedException.java
+END
+JiveInitialLdapContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/repos/!svn/ver/11509/openfire/trunk/src/java/org/jivesoftware/util/JiveInitialLdapContext.java
+END
+Blowfish.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/util/Blowfish.java
+END
+HTTPConnectionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/util/HTTPConnectionException.java
+END
+IntEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/util/IntEnum.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/repos/!svn/ver/13069/openfire/trunk/src/java/org/jivesoftware/util/Log.java
+END
+SetCharacterEncodingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/util/SetCharacterEncodingFilter.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/util/Version.java
+END
+BeanUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/util/BeanUtils.java
+END
+ClassUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/util/ClassUtils.java
+END
+ElementUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/util/ElementUtil.java
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/11929/openfire/trunk/src/java/org/jivesoftware/util/StringUtils.java
+END
+JiveConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/util/JiveConstants.java
+END
+CertificateEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/util/CertificateEventListener.java
+END
+PropertyEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/util/PropertyEventListener.java
+END
+InputOutputStreamWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/util/InputOutputStreamWrapper.java
+END
+PropertyEventDispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/util/PropertyEventDispatcher.java
+END
+JiveBeanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/util/JiveBeanInfo.java
+END
+JiveGlobals.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/util/JiveGlobals.java
+END
+LinkedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/util/LinkedList.java
+END
+ConcurrentHashSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/util/ConcurrentHashSet.java
+END
+WebBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/util/WebBean.java
+END
+FastDateFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/util/FastDateFormat.java
+END
+InitializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/util/InitializationException.java
+END
+LinkedListNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/util/LinkedListNode.java
+END
+EmailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/util/EmailService.java
+END
+NotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/util/NotFoundException.java
+END
+CertificateManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/repos/!svn/ver/12975/openfire/trunk/src/java/org/jivesoftware/util/CertificateManager.java
+END
+XMLProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/repos/!svn/ver/11674/openfire/trunk/src/java/org/jivesoftware/util/XMLProperties.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/7872/openfire/trunk/src/java/org/jivesoftware/util/package.html
+END
+LocaleUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/11388/openfire/trunk/src/java/org/jivesoftware/util/LocaleUtils.java
+END
+ParamUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/util/ParamUtils.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/repos/!svn/ver/11685/openfire/trunk/src/java/org/jivesoftware/util/Base64.java
+END
+TaskEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/util/TaskEngine.java
+END
+CookieUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/util/CookieUtils.java
+END
+FaviconServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/util/FaviconServlet.java
+END
+InternalServerErrorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/11291/openfire/trunk/src/java/org/jivesoftware/util/InternalServerErrorException.java
+END
+XMLWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/11608/openfire/trunk/src/java/org/jivesoftware/util/XMLWriter.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/repos/!svn/ver/12154/spark/trunk/src/plugins/flashing/src/c
+END
+compile_dll_with_cygwin.bat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/repos/!svn/ver/10987/spark/trunk/src/plugins/flashing/src/c/compile_dll_with_cygwin.bat
+END
+org_jivesoftware_spark_plugin_flashing_FlashWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/10987/spark/trunk/src/plugins/flashing/src/c/org_jivesoftware_spark_plugin_flashing_FlashWindow.h
+END
+org_jivesoftware_spark_plugin_flashing_FlashWindow.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/repos/!svn/ver/12154/spark/trunk/src/plugins/flashing/src/c/org_jivesoftware_spark_plugin_flashing_FlashWindow.c
+END

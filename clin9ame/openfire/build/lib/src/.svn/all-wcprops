@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/repos/!svn/ver/11383/openfire/trunk/build/lib/src
+END
+mina-filter-compression-1.1.7-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/repos/!svn/ver/11383/openfire/trunk/build/lib/src/mina-filter-compression-1.1.7-sources.jar
+END
+mina-filter-ssl-1.1.7-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/repos/!svn/ver/11383/openfire/trunk/build/lib/src/mina-filter-ssl-1.1.7-sources.jar
+END
+slf4j-log4j12-1.5.8-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/repos/!svn/ver/11195/openfire/trunk/build/lib/src/slf4j-log4j12-1.5.8-sources.jar
+END
+commons-lang-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/repos/!svn/ver/9103/openfire/trunk/build/lib/src/commons-lang-sources.jar
+END
+mina-core-1.1.7-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/11383/openfire/trunk/build/lib/src/mina-core-1.1.7-sources.jar
+END
+slf4j-api-1.5.8-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/repos/!svn/ver/11195/openfire/trunk/build/lib/src/slf4j-api-1.5.8-sources.jar
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/repos/!svn/ver/13061/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/spark/plugin/phone/resource
+END
+sip_spark_i18n_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/!svn/ver/12403/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/spark/plugin/phone/resource/sip_spark_i18n_ja.properties
+END
+sip_spark_i18n_pl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/!svn/ver/13061/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/spark/plugin/phone/resource/sip_spark_i18n_pl.properties
+END
+sip_spark_i18n_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/repos/!svn/ver/12403/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/spark/plugin/phone/resource/sip_spark_i18n_zh_TW.properties
+END
+sip_spark_i18n_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/!svn/ver/12403/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/spark/plugin/phone/resource/sip_spark_i18n_it.properties
+END
+PhoneRes.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/repos/!svn/ver/12403/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/spark/plugin/phone/resource/PhoneRes.java
+END
+phone.properties
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/repos/!svn/ver/11745/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/spark/plugin/phone/resource/phone.properties
+END
+sip_spark_i18n_lt.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/!svn/ver/12429/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/spark/plugin/phone/resource/sip_spark_i18n_lt.properties
+END
+sip_spark_i18n.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/repos/!svn/ver/12403/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/spark/plugin/phone/resource/sip_spark_i18n.properties
+END
+sip_spark_i18n_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/repos/!svn/ver/12403/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/spark/plugin/phone/resource/sip_spark_i18n_pt_BR.properties
+END
+sip_spark_i18n_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/!svn/ver/12403/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/spark/plugin/phone/resource/sip_spark_i18n_es.properties
+END
+sip_spark_i18n_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/!svn/ver/12403/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/spark/plugin/phone/resource/sip_spark_i18n_fr.properties
+END
+sip_spark_i18n_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/!svn/ver/12403/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/spark/plugin/phone/resource/sip_spark_i18n_de.properties
+END
+sip_spark_i18n_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/!svn/ver/12403/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/spark/plugin/phone/resource/sip_spark_i18n_nl.properties
+END

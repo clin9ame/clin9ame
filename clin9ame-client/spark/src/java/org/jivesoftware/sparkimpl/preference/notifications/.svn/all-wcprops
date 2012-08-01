@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/repos/!svn/ver/12840/spark/trunk/src/java/org/jivesoftware/sparkimpl/preference/notifications
+END
+NotificationPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/repos/!svn/ver/12435/spark/trunk/src/java/org/jivesoftware/sparkimpl/preference/notifications/NotificationPlugin.java
+END
+NotificationsUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/preference/notifications/NotificationsUI.java
+END
+NotificationsPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/preference/notifications/NotificationsPreference.java
+END
+NotificationAlertUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/repos/!svn/ver/12840/spark/trunk/src/java/org/jivesoftware/sparkimpl/preference/notifications/NotificationAlertUI.java
+END

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/broadcast/src/Broadcast.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/broadcast/src/Broadcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/clientControl/src/ClientControl.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/clientControl/src/ClientControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/clustering/src/Clustering.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/clustering/src/Clustering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/contentFilter/src/ContentFilter.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/contentFilter/src/ContentFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/dbaccess/src/Dbaccess.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/dbaccess/src/Dbaccess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/emailListener/src/EmailListener.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/emailListener/src/EmailListener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/fastpath/src/Fastpath.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/fastpath/src/Fastpath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/gojara/src/Gojara.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/gojara/src/Gojara.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/jingleNodes/src/JingleNodes.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/jingleNodes/src/JingleNodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/contentFilter/src/test/java/org/jivesoftware/Jivesoftware.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/contentFilter/src/test/java/org/jivesoftware/Jivesoftware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/justmarried/src/Justmarried.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/justmarried/src/Justmarried.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/kraken/src/Kraken.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/kraken/src/Kraken.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/loadStats/src/LoadStats.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/loadStats/src/LoadStats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/monitoring/src/Monitoring.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/monitoring/src/Monitoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/motd/src/Motd.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/motd/src/Motd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/Openfire.iml" filepath="$PROJECT_DIR$/openfire/src/Openfire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/packetFilter/src/PacketFilter.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/packetFilter/src/PacketFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/presence/src/Presence.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/presence/src/Presence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/registration/src/Registration.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/registration/src/Registration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/search/src/Search.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/search/src/Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/sip/src/Sip.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/sip/src/Sip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/stunserver/src/Stunserver.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/stunserver/src/Stunserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/subscription/src/Subscription.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/subscription/src/Subscription.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/test/Test.iml" filepath="$PROJECT_DIR$/openfire/src/test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/test/throttletest/Throttletest.iml" filepath="$PROJECT_DIR$/openfire/src/test/throttletest/Throttletest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/tools/Tools.iml" filepath="$PROJECT_DIR$/openfire/src/tools/Tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/userCreation/src/UserCreation.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/userCreation/src/UserCreation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/userImportExport/src/UserImportExport.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/userImportExport/src/UserImportExport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/userservice/src/Userservice.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/userservice/src/Userservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openfire/src/plugins/xmldebugger/src/Xmldebugger.iml" filepath="$PROJECT_DIR$/openfire/src/plugins/xmldebugger/src/Xmldebugger.iml" />
+    </modules>
+  </component>
+</project>
+

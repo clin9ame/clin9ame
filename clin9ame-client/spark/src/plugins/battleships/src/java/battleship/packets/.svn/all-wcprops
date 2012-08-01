@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/repos/!svn/ver/12514/spark/trunk/src/plugins/battleships/src/java/battleship/packets
+END
+GameOfferPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/12514/spark/trunk/src/plugins/battleships/src/java/battleship/packets/GameOfferPacket.java
+END
+MoveAnswerPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/repos/!svn/ver/12514/spark/trunk/src/plugins/battleships/src/java/battleship/packets/MoveAnswerPacket.java
+END
+MovePacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12514/spark/trunk/src/plugins/battleships/src/java/battleship/packets/MovePacket.java
+END

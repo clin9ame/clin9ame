@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/repos/!svn/ver/13059/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/alerts
+END
+BroadcastPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/12582/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/alerts/BroadcastPlugin.java
+END
+BroadcastDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/repos/!svn/ver/13059/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/alerts/BroadcastDialog.java
+END
+BuzzPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/12386/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/alerts/BuzzPacket.java
+END
+SparkToaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/alerts/SparkToaster.java
+END
+BuzzPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/alerts/BuzzPlugin.java
+END
+BuzzRoomDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/repos/!svn/ver/12582/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/alerts/BuzzRoomDecorator.java
+END
+InputTextAreaDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/repos/!svn/ver/12374/spark/trunk/src/java/org/jivesoftware/sparkimpl/plugin/alerts/InputTextAreaDialog.java
+END

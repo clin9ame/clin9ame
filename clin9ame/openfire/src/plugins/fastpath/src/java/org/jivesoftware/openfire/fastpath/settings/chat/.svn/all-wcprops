@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/repos/!svn/ver/12020/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/settings/chat
+END
+ChatSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/settings/chat/ChatSettings.java
+END
+ChatSettingsCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/repos/!svn/ver/12020/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/settings/chat/ChatSettingsCreator.java
+END
+ChatSettingsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/repos/!svn/ver/11442/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/settings/chat/ChatSettingsManager.java
+END
+ChatSetting.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/repos/!svn/ver/11291/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/settings/chat/ChatSetting.java
+END
+KeyEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/repos/!svn/ver/11608/openfire/trunk/src/plugins/fastpath/src/java/org/jivesoftware/openfire/fastpath/settings/chat/KeyEnum.java
+END
